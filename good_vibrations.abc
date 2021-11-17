@@ -1,0 +1,90 @@
+%abc-2.1
+%%song-title       Good Vibrations by the Beach Boys for string quartet
+%%song-duration    2:12
+%%song-transcriber Rogosh
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: Good Vibrations by the Beach Boys for string quartet (2:12) - Lute of Ages
+%%part-name Lute of Ages
+Z: Rogosh
+M: 4/4
+Q: 142
+K: C maj
+
++mf+ [d3/2f3/2-a3/2-] [A/f/a/c'/] [D2d2a2] [A2d2a2] [d3/2-a3/2-] [D/d/a/] |
+[E3/2-f3/2-a3/2] [E/f/a/] [F3/2-d3/2-a3/2] [F/d/a/] [d3/2f3/2-a3/2-] [d/f/a/] [d2f2a2] |
+[e3/2-g3/2-] [G/e/g/] [C2e2g2c'2] [G3/2-e3/2-g3/2-c'3/2] [G/e/g/^a/] [c3/2-e3/2-=a3/2-] [C/c/e/a/] |
+[D2c2e2] [E2c2e2] [c3/2-e3/2-] [c/e/g/-] [c3/2-e3/2-g3/2] [c/e/a/] |
+[d3/2-f3/2-^a3/2-] [F/d/f/a/] [B,2d2f2c'2] [F2^A2d2g2] [A3/2-d3/2-=a3/2-] [B,/A/d/a/] |
+[C2d2f2^a2] [D2d2f2=a2] [^A2d2g2] [A2d2f2] |
+[A3/2-e3/2-g3/2] [E/A/e/f/] [A,2A2^c2e2] [E2A2c2] [A3/2-c3/2-] [A,/A/c/] |
+[B,2e2c'2] [^C2e2c'2] [e2a2] [e2a2] |
+[d3/2-f3/2-a3/2-] [A/d/f/a/-] [D2d2f2a2-] [A2d2f2a2-] [d3/2-f3/2-a3/2-] [D/d/f/a/] |
+% Bar 10 (0:18)
+[E2f2a2] [F3/2-d3/2-f3/2-a3/2] [F/d/f/a/] [d3/2-f3/2-a3/2] [d/f/g/] [f2a2] |
+[e3/2-g3/2-c'3/2-] [G/e/g/c'/] [C2d2e2g2] [G2c2e2a2] [c3/2-e3/2-a3/2] [C/c/e/g/] |
+[D2G2c2f2-] [E2G2c2f2] [c3/2-e3/2-] [c/e/g/-] [c3/2-e3/2-g3/2] [c/e/a/] |
+[d3/2-f3/2-^a3/2-] [F/d/f/a/] [B,2d2f2c'2] [F2^A2d2g2] [A3/2-d3/2-=a3/2-] [B,/A/d/a/] |
+[C2d2f2^a2] [D2d2f2=a2] [^A2d2g2] [A2d2f2] |
+[A,3/2-A3/2-e3/2-g3/2] [A,/A/e/f/] [^C2^c2e2] [E2c2e2] [^A2c2e2] |
+[A2B2c2e2-] [G2B2c2e2-] [F2B2c2e2-] [E2B2c2e2] |
+[F,2a2-c'2-] [F2f2a2c'2] [^D3/2^d3/2g3/2-^a3/2-] [D/d/g/-a/-] [=D2=d2g2a2] |
+[F,2F2f2-a2-] [G,2G2f2a2] [^A,2^A2g2-^a2-] [C2c2g2a2] |
+[F,2a2-c'2-] [F2f2a2c'2] [^D3/2^d3/2g3/2-^a3/2-] [D/d/g/-a/-] [=D2=d2g2a2] |
+% Bar 20 (0:38)
+[F,2F2f2-a2-] [G,2G2f2a2] [^A,2^A2g2-^a2-] [C2c2g2a2] |
+[F,2f2a2-] [F2f2a2] [^D-^d-g^a] [D/d/] [D/d/] [=D-=d-ga] [Dd] |
+[F,2F2c'2-] [G,2G2c'2] [^A,2^A2a2c'2] [C2c2g2^a2] |
+[F,2g2^a2] [F2f2=a2] [^D-^d-g^a] [D/d/] [D/d/] [=D-=d-ga] [Dd] |
+[F,2F2] [G,2G2] [^A,2^A2a2c'2] [C2c2g2^a2] |
+[G,2a2c'2] [G2g2b2] [F-f-ac'] [F/f/] [F/f/] [E-e-ac'] [Ee] |
+[G,2G2d2-] [A,2A2d2] [C2c2d2b2] [D2d2a2c'2] |
+[G,2a2c'2] [G2g2b2] [F-f-ac'] [F/f/] [F/f/] [E-e-ac'] [Ee] |
+[G,2G2d2-] [A,2A2d2] [C2c2d2b2] [D2d2a2c'2] |
+[A,2d2b2] [A2^c2a2] [G-dg-b] [G/g/] [G/g/] [^F-d^f-b] [Ff] |
+% Bar 30 (0:58)
+[A,2A2e2-] [B,2B2e2] [D2^c2d2e2] [E2d2e2^a2] |
+[A,2d2b2] [A2^c2a2] [G-dg-b] [G/g/] [G/g/] [^F-d^f-b] [Ff] |
+[A,2A2] [B,2B2] [D2^c2d2e2] [E2d2e2b2] |
+[d3/2f3/2-a3/2-] [A/f/a/c'/] [D2d2a2] [A2d2a2] [d3/2-a3/2-] [D/d/a/] |
+[E3/2-f3/2-a3/2] [E/f/a/] [F3/2-d3/2-a3/2] [F/d/a/] [d3/2f3/2-a3/2-] [d/f/a/] [d2f2a2] |
+[e3/2-g3/2-] [G/e/g/] [C2e2g2c'2] [G3/2-e3/2-g3/2-c'3/2] [G/e/g/^a/] [c3/2-e3/2-=a3/2-] [C/c/e/a/] |
+[D2c2e2] [E2c2e2] [c3/2-e3/2-] [c/e/g/-] [c3/2-e3/2-g3/2] [c/e/a/] |
+[d3/2-f3/2-^a3/2-] [F/d/f/a/] [B,2d2f2c'2] [F2^A2d2g2] [A3/2-d3/2-=a3/2-] [B,/A/d/a/] |
+[C2d2f2^a2] [D2d2f2=a2] [^A2d2g2] [A2d2f2] |
+[A3/2-e3/2-g3/2] [E/A/e/f/] [A,2A2^c2e2] [E2A2c2] [A3/2-c3/2-] [A,/A/c/] |
+% Bar 40 (1:18)
+[B,2e2c'2] [^C2e2c'2] [e2a2] [e2a2] |
+[d3/2-f3/2-a3/2-] [A/d/f/a/-] [D2d2f2a2-] [A2d2f2a2-] [d3/2-f3/2-a3/2-] [D/d/f/a/] |
+[E2f2a2] [F3/2-d3/2-f3/2-a3/2] [F/d/f/a/] [d3/2-f3/2-a3/2] [d/f/g/] [f2a2] |
+[e3/2-g3/2-c'3/2-] [G/e/g/c'/] [C2d2e2g2] [G2c2e2a2] [c3/2-e3/2-a3/2] [C/c/e/g/] |
+[D2G2c2f2-] [E2G2c2f2] [c3/2-e3/2-] [c/e/g/-] [c3/2-e3/2-g3/2] [c/e/a/] |
+[d3/2-f3/2-^a3/2-] [F/d/f/a/] [B,2d2f2c'2] [F2^A2d2g2] [A3/2-d3/2-=a3/2-] [B,/A/d/a/] |
+[C2d2f2^a2] [D2d2f2=a2] [^A2d2g2] [A2d2f2] |
+[A,3/2-A3/2-e3/2-g3/2] [A,/A/e/f/] [^C2^c2e2] [E2c2e2] [^A2c2e2] |
+[A2B2c2e2-] [G2B2c2e2-] [F2B2c2e2-] [E2B2c2e2] |
+[F,2a2-c'2-] [F2f2a2c'2] [^D3/2^d3/2g3/2-^a3/2-] [D/d/g/-a/-] [=D2=d2g2a2] |
+% Bar 50 (1:38)
+[F,2F2f2-a2-] [G,2G2f2a2] [^A,2^A2g2-^a2-] [C2c2g2a2] |
+[F,2a2-c'2-] [F2f2a2c'2] [^D3/2^d3/2g3/2-^a3/2-] [D/d/g/-a/-] [=D2=d2g2a2] |
+[F,2F2f2-a2-] [G,2G2f2a2] [^A,2^A2g2-^a2-] [C2c2g2a2] |
+[F,2f2a2-] [F2f2a2] [^D-^d-g^a] [D/d/] [D/d/] [=D-=d-ga] [Dd] |
+[F,2F2c'2-] [G,2G2c'2] [^A,2^A2a2c'2] [C2c2g2^a2] |
+[F,2g2^a2] [F2f2=a2] [^D-^d-g^a] [D/d/] [D/d/] [=D-=d-ga] [Dd] |
+[F,2F2] [G,2G2] [^A,2^A2a2c'2] [C2c2g2^a2] |
+[G,2a2c'2] [G2g2b2] [F-f-ac'] [F/f/] [F/f/] [E-e-ac'] [Ee] |
+[G,2G2d2-] [A,2A2d2] [C2c2d2b2] [D2d2a2c'2] |
+[G,2a2c'2] [G2g2b2] [F-f-ac'] [F/f/] [F/f/] [E-e-ac'] [Ee] |
+% Bar 60 (1:58)
+[G,2G2d2-] [A,2A2d2] [C2c2d2b2] [D2d2a2c'2] |
+[A,2d2b2] [A2^c2a2] [G-dg-b] [G/g/] [G/g/] [^F-d^f-b] [Ff] |
+[A,2A2e2-] [B,2B2e2] [D2^c2d2e2] [E2d2e2^a2] |
+[A,2d2b2] [A2^c2a2] [G-dg-b] [G/g/] [G/g/] [^F-d^f-b] [Ff] |
+[G,2d2b2] [A2^c2a2] [G-dg-b] [G/g/] [G/g/] [^F-d^f-b] [Ff] |
+[A,2A2] [B,2B2] [D2^c2d2e2] [E2d2e2b2] |
+A,4- [A,2-^g2b2] [A,2-^c2-a2-] |
+%%Q: 123
+[A,1136/123^c1136/123a1136/123] |]
+

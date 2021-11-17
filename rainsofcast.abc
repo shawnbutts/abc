@@ -1,0 +1,226 @@
+%abc-2.1
+%%song-title       Rains of Castamere
+%%song-duration    2:14
+%%song-transcriber Rogosh
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: Rains of Castamere (2:14) - Lute of Ages
+%%part-name Lute of Ages
+Z: Rogosh
+M: 1/4
+Q: 85
+K: C maj
+
++f+ A4 |
++mf+ [A4-d4-f4-] |
+[A2d2-f2] +f+ [A2-d2-] |
++mf+ [A4-d4-e4-] |
+[A2d2-e2] +f+ [A2-d2-] |
+[A4-d4-f4] |
+[A4-d4-g4] |
++mf+ [A4-d4-e4-] |
+[A2d2-e2] +f+ [A2-d2] |
+% Bar 10 (0:06)
+[A4-g4] |
+[A4-f4] |
+[A4-e4] |
+[A4d4] |
+[G4-c4-e4-] |
+[G4-c4-e4-] |
+[G4-c4-e4-] |
+[G4c4e4] |
+[c2-f2-a2] [c2-f2-a2-] |
+[c2-f2-a2] [c2-f2-^a2] |
+% Bar 20 (0:13)
+[c4f4-g4] |
+[c2f2-] [c2-f2-] |
+[c4-f4-a4] |
+[c4-f4-^a4] |
++mf+ [c4-f4-g4-] |
+[c2-f2-g2] +f+ [c2f2a2] |
+[^A4-d4-^a4] |
+[^A4-d4-a4] |
+[^A4-d4-g4] |
+[^A4d4f4] |
+% Bar 30 (0:20)
++mf+ [A4-c4-e4-] |
+[A4-c4-e4-] |
+[A4c4-e4] |
+[A2c2-] [A2c2] |
+[d4-f4-] |
+[d2-f2-] +f+ [A2d2-f2-] |
++mf+ [d4-e4-f4-] |
+[d2-e2f2-] +f+ [A2d2-f2] |
+[d4-f4-] |
+[d4-f4-g4] |
+% Bar 40 (0:27)
++mf+ [d4-e4-f4-] |
+[d2-e2f2-] +f+ [A2d2f2] |
+[f4g4] |
+f4- |
+[e4f4-] |
+[d4f4] |
+[c4-e4-g4-] |
+[c4-e4-g4-] |
+[c4-e4-g4-] |
+[c4e4g4] |
+% Bar 50 (0:34)
+[c2-f2-a2] [c2f2a2-] |
++mf+ [c2-a2] +f+ [c2-^a2] |
+[c4e4g4] |
+c2 c2 |
+[c4f4a4] |
+[c4-^a4] |
++mf+ [c4-e4g4-] |
+[c2-f2-g2] +f+ [c2f2a2] |
+[e4-g4-^a4] |
+[e4-g4a4] |
+% Bar 60 (0:41)
+[e4-g4-] |
+[e4f4g4] |
++mf+ [d4-f4-a4-] |
+[d4-f4-a4-] |
+[d4f4a4-] |
+[A4a4] |
+[e2f2] f2- |
+[d2-f2-] [A2d2f2-] |
+[d4f4] |
+f4 |
+% Bar 70 (0:48)
+[e2f2] e2- |
+[A2-e2-] [A2-c2e2] |
+[A4e4-] |
+[A4e4] |
+[e2f2] f2- |
+[d2-f2-] [A2d2f2-] |
+[d4f4] |
+f4 |
+[e2f2] e2- |
+e2- [c2e2-] |
+% Bar 80 (0:55)
+[e2-g2] e2- |
+e2- [A2e2] |
+[e2f2] f2- |
+[d2-f2-] [A2d2f2-] |
+[d4f4] |
+[d4f4a4] |
+[d4f4a4] |
+[c4e4g4] |
+[G4^A4d4] |
+[c4e4g4] |
+% Bar 90 (1:02)
+[d4-f4-a4-] |
+[d2f2a2-] [d2a2] |
+[e2-g2a2] [e2g2-] |
+[e2-g2-] [e2f2g2] |
+[d4-f4-a4-] |
+[d4-f4-a4] |
+[d4f4] |
++f+ A4 |
++mf+ [A2-d2f2] [A2-f2-] |
+[A2f2a2] +f+ [A2-f2] |
+% Bar 100 (1:09)
++mf+ [A2-d2e2-] [A2-e2-f2] |
+[A2e2a2] +f+ [A2-f2] |
+[A2-d2f2] +mf+ [A2-f2] |
++f+ [A2-g2-a2] +mf+ [A2-f2g2] |
+[A2-d2e2-] [A2-e2-f2] |
+[A2e2a2] +f+ [A2-f2] |
+[A2-d2g2-] +mf+ [A2-f2g2] |
++f+ [A2-f2a2] +mf+ [A2-f2] |
++f+ [A2-d2e2-] +mf+ [A2-e2f2] |
++f+ [A2-d2-a2] +mf+ [A2d2f2] |
+% Bar 110 (1:16)
+[G2-e2-] [G2-e2-g2] |
+[G2-e2-c'2] [G2-e2g2] |
+[G2-e2-] [G2-e2-g2] |
+[G2-e2-c'2] [G2e2g2] |
++f+ [c2-a2] [c2-f2a2] |
++mf+ [c2-a2] +f+ [c2-^a2] |
++mf+ [c2-g2-] [c2e2g2] |
++f+ c2 [c2-e2] |
++mf+ [c2-a2-] [c2-f2a2] |
+[c2-^a2-] [c2-f2a2] |
+% Bar 120 (1:23)
+[c2g2-] [c2-g2] |
+[c2-g2] +f+ [c2a2] |
+[^A2-d2^a2-] +mf+ [A2-d2a2] |
++f+ [^A2-d2a2-] +mf+ [A2-d2a2] |
++f+ [^A2-d2g2-] +mf+ [A2-d2g2] |
++f+ [^A2-d2f2-] +mf+ [A2d2f2] |
+[A2-c2e2-] [A2-c2e2-] |
+[A2-c2e2-] [A2-c2e2-] |
+[A2-c2e2-] [A2c2e2] |
+[A2c2] [A2c2] |
+% Bar 130 (1:31)
+[d2f2] f2- |
+[f2a2] +f+ [A2f2-] |
++mf+ [d2e2-f2] [e2-f2-] |
+[e2f2a2] +f+ [A2f2] |
+[d2f2] +mf+ f2- |
++f+ [f2g2-a2] +mf+ [f2-g2] |
+[d2e2-f2] [e2-f2-] |
+[e2f2a2] +f+ [A2f2] |
+[d4f4g4] |
+[d2f2] +mf+ f2- |
+% Bar 140 (1:38)
++f+ [e2-f2-a2] +mf+ [d2e2f2] |
++f+ [d2-f2-] +mf+ [d2f2a2] |
+[e2-g2c'2] [e2g2-] |
+[e2-g2-] [e2-g2c'2] |
+[e2g2-] [e2-g2-] |
+[c2e2-g2-] [G2e2g2] |
++f+ [c2f2a2] [c2-a2-] |
++mf+ [c2f2a2] +f+ [c2-^a2] |
+[c2e2g2-] +mf+ [c2g2] |
++f+ [c2e2] c2 |
+% Bar 150 (1:45)
+[c2f2a2-] +mf+ [c2-a2] |
++f+ [c2f2^a2-] +mf+ [c2-a2] |
+[c2e2g2-] [c2-g2-] |
+[c2e2g2] +f+ [c2a2] |
+[e4g4^a4] |
+[e4-a4] |
+[c4e4-g4] |
+[e4f4a4] |
++mf+ [d4-f4-a4-] |
+[d4-f4-a4-] |
+% Bar 160 (1:52)
+[d4f4a4] |
++f+ [A4a4] |
++mf+ [e2f2] f2- |
+[d2-f2-] +f+ [A2d2-f2-] |
++mf+ [d4e4-f4] |
+[e2f2-] +f+ [A2f2] |
++mf+ [f2-g2-] [e2f2g2] |
++f+ [g4-a4-] |
++mf+ [e4-g4-a4] |
+[e2g2-a2-] +f+ [A2g2a2] |
+% Bar 170 (1:59)
+[e2f2g2-] +mf+ [f2g2] |
++f+ [d4-f4-] |
+[d4e4f4] |
+[d4f4] |
+[c2-e2f2] +mf+ [c2-e2-] |
+[c4-e4-] |
+[c4-e4-] |
+[A4c4e4] |
+[e2f2] f2- |
+[d4-f4-] |
+% Bar 180 (2:06)
+[d4f4] |
+[d4g4a4] |
+[d4f4a4] |
+[c4e4g4] |
+[G4^A4d4] |
+[c4e4g4] |
+[f4-a4-] |
+[f2-a2-] [d2f2a2] |
+[g2a2-] [g2-a2-] |
+[e2g2-a2-] [f2g2a2] |
+% Bar 190 (2:13)
+[d4-a4-] |
+[d4a4] |]
+

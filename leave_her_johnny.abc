@@ -1,0 +1,87 @@
+%abc-2.1
+%%song-title       Leave Her Johnny
+%%song-duration    2:07
+%%song-transcriber Rogosh
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: Leave Her Johnny (2:07) - Lute of Ages
+%%part-name Lute of Ages
+Z: Rogosh
+M: 4/4
+Q: 120
+K: C maj
+
++mf+ ^d f g2 [g2^a2] [f2-g2] |
+[^df] f [d2-g2] [d2f2] d2 |
+z2 [F,-^A,-F-f-^a-] [F,A,-F^dfa] [F,-A,-F-=d-f-a] [F,A,-Fdfc'] [F,-A,-F-^A-d-f] [F,-A,-F-Ad-^d] |
+[F,^A,-FG-df] [^D,A,^DGd^d] [G,D-G^Ag-] [A,DAdg^a] [A,2D2A2d2a2] z2 |
+^d [=df] [g2c'2] [g2c'2] [^d2^a2] |
+g g [^A2^g2] [d2g2] [^d2=g2] |
+[^D,^A,^D^df^a] [F,A,=Ddfa] [G,-C-c-d-g-c'] [G,C-cdgc'] [G,Cc-gc'-] [G,Ccdgc'] [G,-A,-C-c-d-g-] [G,A,-Ccd-g] |
+[F,-^A,D-d-^df] [F,A,D=df^a] [F,A,D-d-f^g] [^D,D^Dd^d=g] [D,-D-dg-] [D,Ddg] z2 |
+z2 [F,2F2f2] [F,2F2f2] [F,2-F2-f2-] |
+% Bar 10 (0:18)
+[F,Ff] [^D,^D^d] [G,Gg] [^A,^A^a] [A,2A2a2] z2 |
+[^D,^D^d] [F,F=d] [G,-^G,-C-D-^G-c-] [=G,^G,-CDGc] [=G,-^G,-C-D-G-^d] [=G,^G,-CDGd-] [D,-G,-C-D-G-d] [D,G,C-D-G-d-] |
+[^G,-C^D^Gd^d-] [G,^A,F^Ad^a] [^D,-=G,D-d-g] [D,A,=D^Ddg] [D,2A,2D2-d2-f2a2] [D2d2] |
+[D,^D^df] [C,=DF=d^df] [C,^G,-^D-cd^g-] [C,G,D-cdg] [^D,-G,-D-c-=g-^g] [D,G,Dcd=g] [=G,-^A,-^A-=d^a-] [G,A,Ada] |
+[G,^A,-G^d-g^a-] [^D,A,Gdga] [=D,-^G,-^G-f^g-] [D,G,-Gfg] [D,-F,-G,-G-fg-] [D,F,G,Gfg] [C,-=G,-=G-d-=g-] [C,G,Gdg^g] |
+[^D,^D^d] [F,Ff] [G,3G3g3] [G,Gg] [G,2-G2-g2-] |
+[G,Gg] [F,Ff] [F,Ff] [^D,^D^d] [D,2D2d2] z2 |
+[^D^d] [Ff] [G2g2] [G2^a2] [G2f2-] |
+[^Df-] [Ff] [G2^d2-] [F2d2-] [D2d2] |
+z2 [F,-^A,-F-f-^a-] [F,A,-F^dfa] [F,-A,-F-=d-f-a] [F,A,-Fdfc'] [F,-A,-F-^A-d-f] [F,-A,-F-Ad-^d] |
+% Bar 20 (0:38)
+[F,^A,-FG-df] [^D,A,^DGd^d] [G,D-G^Ag-] [A,DAdg^a] [A,2D2A2d2a2] z2 |
+^d [=df] [g2c'2] [g2c'2] [^d2^a2] |
+g g [^A2^g2] [d2g2] [^d2=g2] |
+[^D,^A,^D^df^a] [F,A,=Ddfa] [G,-C-c-d-g-c'] [G,C-cdgc'] [G,Cc-gc'-] [G,Ccdgc'] [G,-A,-C-c-d-g-] [G,A,-Ccd-g] |
+[F,-^A,D-d-^df] [F,A,D=df^a] [F,A,D-d-f^g] [^D,D^Dd^d=g] [D,-D-dg-] [D,Ddg] z2 |
+z2 [F,2F2f2] [F,2F2f2] [F,2-F2-f2-] |
+[F,Ff] [^D,^D^d] [G,Gg] [^A,^A^a] [A,2A2a2] z2 |
+[^D,^D^d] [F,F=d] [G,-^G,-C-D-^G-c-] [=G,^G,-CDGc] [=G,-^G,-C-D-G-^d] [=G,^G,-CDGd-] [D,-G,-C-D-G-d] [D,G,C-D-G-d-] |
+[^G,-C^D^Gd^d-] [G,^A,F^Ad^a] [^D,-=G,D-d-g] [D,A,=D^Ddg] [D,2A,2D2-d2-f2a2] [D2d2] |
+[D,^D^df] [C,=DF=d^df] [C,^G,-^D-cd^g-] [C,G,D-cdg] [^D,-G,-D-c-=g-^g] [D,G,Dcd=g] [=G,-^A,-^A-=d^a-] [G,A,Ada] |
+% Bar 30 (0:58)
+[G,^A,-G^d-g^a-] [^D,A,Gdga] [=D,-^G,-^G-f^g-] [D,G,-Gfg] [D,-F,-G,-G-fg-] [D,F,G,Gfg] [C,-=G,-=G-d-=g-] [C,G,Gdg^g] |
+[^D,^D^d] [F,Ff] [G,3G3g3] [G,Gg] [G,2-G2-g2-] |
+[G,Gg] [F,Ff] [F,Ff] [^D,^D^d] [D,2D2d2] z2 |
+^d f g2 [g2^a2] [f2-g2] |
+[^df] f [d2-g2] [d2f2] d2 |
+z2 [F,-^A,-F-f-^a-] [F,A,-F^dfa] [F,-A,-F-=d-f-a] [F,A,-Fdfc'] [F,-A,-F-^A-d-f] [F,-A,-F-Ad-^d] |
+[F,^A,-FG-df] [^D,A,^DGd^d] [G,D-G^Ag-] [A,DAdg^a] [A,2D2A2d2a2] z2 |
+^d [=df] [g2c'2] [g2c'2] [^d2^a2] |
+g g [^A2^g2] [d2g2] [^d2=g2] |
+[^D,^A,^D^df^a] [F,A,=Ddfa] [G,-C-c-d-g-c'] [G,C-cdgc'] [G,Cc-gc'-] [G,Ccdgc'] [G,-A,-C-c-d-g-] [G,A,-Ccd-g] |
+% Bar 40 (1:18)
+[F,-^A,D-d-^df] [F,A,D=df^a] [F,A,D-d-f^g] [^D,D^Dd^d=g] [D,-D-dg-] [D,Ddg] z2 |
+z2 [F,2F2f2] [F,2F2f2] [F,2-F2-f2-] |
+[F,Ff] [^D,^D^d] [G,Gg] [^A,^A^a] [A,2A2a2] z2 |
+[^D,^D^d] [F,F=d] [G,-^G,-C-D-^G-c-] [=G,^G,-CDGc] [=G,-^G,-C-D-G-^d] [=G,^G,-CDGd-] [D,-G,-C-D-G-d] [D,G,C-D-G-d-] |
+[^G,-C^D^Gd^d-] [G,^A,F^Ad^a] [^D,-=G,D-d-g] [D,A,=D^Ddg] [D,2A,2D2-d2-f2a2] [D2d2] |
+[D,^D^df] [C,=DF=d^df] [C,^G,-^D-cd^g-] [C,G,D-cdg] [^D,-G,-D-c-=g-^g] [D,G,Dcd=g] [=G,-^A,-^A-=d^a-] [G,A,Ada] |
+[G,^A,-G^d-g^a-] [^D,A,Gdga] [=D,-^G,-^G-f^g-] [D,G,-Gfg] [D,-F,-G,-G-fg-] [D,F,G,Gfg] [C,-=G,-=G-d-=g-] [C,G,Gdg^g] |
+[^D,^D^d] [F,Ff] [G,3G3g3] [G,Gg] [G,2-G2-g2-] |
+[G,Gg] [F,Ff] [F,Ff] [^D,^D^d] [D,2D2d2] z2 |
+z2 [F,2F2f2] [F,2F2f2] [F,2-F2-f2-] |
+% Bar 50 (1:38)
+[F,Ff] [^D,^D^d] [G,Gg] [^A,^A^a] [A,2A2a2] z2 |
+[^D,^D^d] [F,F=d] [G,-^G,-C-D-^G-c-] [=G,^G,-CDGc] [=G,-^G,-C-D-G-^d] [=G,^G,-CDGd-] [D,-G,-C-D-G-d] [D,G,C-D-G-d-] |
+[^G,-C^D^Gd^d-] [G,^A,F^Ad^a] [^D,-=G,D-d-g] [D,A,=D^Ddg] [D,2A,2D2-d2-f2a2] [D2d2] |
+[D,^D^df] [C,=DF=d^df] [C,^G,-^D-cd^g-] [C,G,D-cdg] [^D,-G,-D-c-=g-^g] [D,G,Dcd=g] [=G,-^A,-^A-=d^a-] [G,A,Ada] |
+[G,^A,-G^d-g^a-] [^D,A,Gdga] [=D,-^G,-^G-f^g-] [D,G,-Gfg] [D,-F,-G,-G-fg-] [D,F,G,Gfg] [C,-=G,-=G-d-=g-] [C,G,Gdg^g] |
+[^D,^D^d] [F,Ff] [G,3G3g3] [G,Gg] [G,2-G2-g2-] |
+[G,Gg] [F,Ff] [F,Ff] [^D,^D^d] [D,2D2d2] z2 |
+z2 [^D2^d2] [=D2=d2] [C2c2c'2] |
+[C2c2c'2] [C2c2c'2] [^A,4^A4^a4] |
+[G,2G2g2] [G,2G2g2] [^G,4^G4^g4] |
+% Bar 60 (1:58)
+[^G,4^G4^g4] [=G,4=G4=g4] |
+[^D,2^D2^d2] [F,2F2f2] [G,4-G4-g4-] |
+[G,2G2g2] [G,2G2g2] [G,4-G4-g4-] |
+[G,2G2g2] [F,2F2f2] [F,2F2f2] [^D,2^D2^d2] |
+[^D,8-^D8-^d8-] |
+[^D,2^D2^d2] z2 z4 |]
+

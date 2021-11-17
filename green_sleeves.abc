@@ -1,0 +1,53 @@
+%abc-2.1
+%%song-title       Green Sleeves
+%%song-duration    1:31
+%%song-transcriber Rogosh
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: Green Sleeves (1:31) - Lute of Ages
+%%part-name Lute of Ages
+Z: Rogosh
+M: 4/4
+Q: 80
+K: C maj
+
+%%Q: 120
++f+ z2/3
+	%%Q: 80
+	a [A2-c'2] [A-d] [A-c-e-] [A/-c/-e/] [A/-c/-f/] [Ace] |
+[G2-d2] [G-b] [G-B-g-] [G/-B/-g/] [G/-B/-a/] [GBb] [A2-c'2] |
+[A-a] [F-A-a-] [F/-A/-a/] [F/-A/-^g/] [FAa] [E2-b2] [E-g] [E-e-] |
+[E-e-] [Eea] [A2-c'2] [A-d] [A-c-e-] [A/-c/-e/] [A/-c/-f/] [Ace] |
+[G2-d2] [G-b] [G-B-g-] [G/-B/-g/] [G/-B/-a/] [GBb] [A3/2-c'3/2] [A/-B/b/] |
+[A/-c/a/-] +mf+ [A/d/a/] +f+ [E-e-^g-] [E/-e/-g/] [E/e/^f/] [Eg] [A2-a2-] +mf+ [Aea] +f+ [A-a-] |
+[A2a2] z a [A2-c'2] [A-d] [A-c-e-] |
+[A/-c/-e/] [A/-c/-f/] [Ace] [G2-d2] [G-b] [G-B-g-] [G/-B/-g/] [G/-B/-a/] [GBb] |
+[A2-c'2] [A-a] [F-A-a-] [F/-A/-a/] [F/-A/-^g/] [FAa] [E2-b2] |
+% Bar 10 (0:26)
+[E-^g] [E-e-] [E-e-] [Eea] [A2-c'2] [A-d] [A-c-e-] |
+[A/-c/-e/] [A/-c/-f/] [Ace] [G2-d2] [G-b] [G-B-g-] [G/-B/-g/] [G/-B/-a/] [GBb] |
+[A3/2-c'3/2] [A/-B/b/] [A/-c/a/-] +mf+ [A/d/a/] +f+ [E-e-^g-] [E/-e/-g/] [E/e/^f/] [Eg] [A2-a2-] |
++mf+ [Aea] +f+ [A-a-] [A2a2] +ff+ [A3/2-c3/2g3/2-] [A/-d/g/-] [A-eg] [A-e-g-] |
+[A/-e/g/] [A/-d/f/] [Ace] [G3/2-d3/2-] [G/-A/d/] [G-Bb] [G3/2-B3/2g3/2] [G/A/a/] [Gb] |
+[A3/2-c'3/2-] [A/-B/c'/] [A-ca] [A-c-a-] [A/-c/a/] [A/B/^g/] [Aa] [E2-A2b2] |
+[E-e^g] [E-A-e-] [E2A2e2] [C3/2A3/2-=g3/2-] [D/A/-g/-] [EA-g] [E-A-g-] |
+[E/A/-g/] [D/A/-f/] [CAe] [G3/2-d3/2-] [G/-A/d/] [G-Bb] [G3/2-B3/2g3/2] [G/A/a/] [Gb] |
+[A3/2-c'3/2] [A/-B/b/] [A/-c/a/-] [A/d/a/] [E-e-^g-] [E/-e/-g/] +f+ [E/e/^f/] +ff+ [Eg] [A2-a2-] |
+[Aea] [A-a-] [A2a2] z +f+ a [A2-c'2] |
+% Bar 20 (0:56)
+[A-d] [A-c-e-] [A/-c/-e/] [A/-c/-f/] [Ace] [G2-d2] [G-b] [G-B-g-] |
+[G/-B/-g/] [G/-B/-a/] [GBb] [A2-c'2] [A-a] [F-A-a-] [F/-A/-a/] [F/-A/-^g/] [FAa] |
+[E2-b2] [E-^g] [E-e-] [E-e-] [Eea] [A2-c'2] |
+[A-d] [A-c-e-] [A/-c/-e/] [A/-c/-f/] [Ace] [G2-d2] [G-b] [G-B-g-] |
+[G/-B/-g/] [G/-B/-a/] [GBb] [A3/2-c'3/2] [A/-B/b/] [A/-c/a/-] +mf+ [A/d/a/] +f+ [E-e-^g-] [E/-e/-g/] [E/e/^f/] [Eg] |
+[A2-a2-] +mf+ [Aea] +f+ [A-a-] [A2a2] +ff+ [A3/2-c3/2g3/2-] [A/-d/g/-] |
+[A-eg] [A3/2-e3/2g3/2] [A/-d/f/] [Ace] [G3/2-d3/2-] [G/-A/d/] [G-Bb] [G-B-g-] |
+[G/-B/g/] [G/A/a/] [Gb] [A3/2-c'3/2-] [A/-B/c'/] [A-ca] [A3/2-c3/2a3/2] [A/B/^g/] [Aa] |
+[E2-A2b2] [E-e^g] [E-A-e-] [E2A2e2] [C3/2A3/2-=g3/2-] [D/A/-g/-] |
+[EA-g] [E3/2A3/2-g3/2] [D/A/-f/] [CAe] [G3/2-d3/2-] [G/-A/d/] [G-Bb] [G-B-g-] |
+% Bar 30 (1:26)
+[G/-B/g/] [G/A/a/] [Gb] [A3/2-c'3/2] [A/-B/b/] [A/-c/a/-] [A/d/a/] [E-e-^g-] [E/-e/-g/] +f+ [E/e/^f/] +ff+ [Eg] |
+[A2-a2-] [Aea] [A-a-] [A2a2] z2 |]
+

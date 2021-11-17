@@ -1,0 +1,63 @@
+%abc-2.1
+%%song-title       A Brisk Young Sailor
+%%song-duration    1:36
+%%song-transcriber Rogosh
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: A Brisk Young Sailor (1:36) - Lute of Ages
+%%part-name Lute of Ages
+Z: Rogosh
+M: 4/4
+Q: 105
+K: C maj
+
++ff+ z G, ^G, ^A, C- [C^G] [G,c] [A,^c] |
+[C-c-^d-] [Ccd^g] [^G-^c-f-=g] [Gcf^g] [CG-d-] [^A,G-cd] [^G,-G-=c-d-g] [G,Gcdg] |
+[^D-^A-^d-g^a] [DAdg] [^Gc^g-] [A^cg-] [=cdg] [^c-fg] [c=g-c'] [cg] |
+[c^d-^g] [^Gd=g] [^A-^cf] [Acd] [G=c-^gc'-] +fff+ [Fcgc'] +ff+ [^Ddg^a-] [^A,-G^c-fa-] |
+[^A,G^c^d^a] [C^G-d-^g] [^G,Gdc'] [A,=Gcd] [C^G-d-] [^CG-d-f] [^DG-d=g] [FG^g] |
+[F,-F-^d^g] [F,Fdc'] [^A,F-^c-] [CF-cd] [^CFfc'] [^D=g^a] [F=c^g] [G^Af] |
+[^G^c-^d-] [=Gcd] [^A,-F-c-^g-] [A,Fcg^a] [^D-^Gfg] [D=Gc=ga] [^G-^g-c'] [Gcg-] |
++fff+ [f-^gc'] +ff+ [f=g^a] [^A-^d-] [A^cdf] [^D-^G-=cd] [D-G-^cf] [DG=cd] [^C-G^cf^g] |
++fff+ [^CG^dg] [=C^D^G^g] +ff+ [^A,-D-=G-d-] [A,DG^cd] [^G,-D-^G-=c-g] [G,DGcg] [^D,-D-=G-^A-^a] [D,DGA=g] |
+% Bar 10 (0:20)
+[^G,^D^Gc^g] [G-^dg-c'] [G^cg^a] [dgc'] [=cd-gc'] [^A^cd=g] [=c-d-^g] [cdg] |
+[^A-^c^g] [Ac=g] [^G^d^gc'-] [Cdgc'] [^D-cf^a-] [D-Gc-a-] [DAc=ga] [FG-=c-^g] |
+[^D^G-cgc'] [^CG^cf] [=CG^d-] [^A,=Gcd-] [^G,^G=cd] [=G,G^g] [F,Gd] [Fcdg] |
+[^A-^c-f] [Ac^g] [^A,-c-=g-c'] [A,cg^a] [^D-=c^g-] [DA^cfg-] [C2^G2^d2g2] |
+[^A,-^Gf^g-] [A,F^cg^a] [^D,-^D-c-g] [D,Dc=g] +fff+ [^G,=c^g-] +ff+ [A,^cg-] [C^dg] [^Cfa] |
+[^Dg] [F^c^g] [Gc^a] [cf=g] [=c^d^g] [^c-fg] [cd=g] [cf^g] |
+[c^d-^g-] [^A^cdg] [^Gdgc'] [Fg] [^Ccf^a] [^DAd=g] [FG=c^g] [fg-c'-] |
+[^dg^gc'] [^cfg] [=cdgc'] [^A^c=g] [^G-d-^gc'-] [Gd=gc'] [G-cf^a-] [Gcga] |
+[^Gc^d-^gc'] [FGdg] [^D-^A-d-g^a-] [D-A-dfa-] [DA=g-a] [Fg^g] [Dc-gc'] [^Cc^c=g] |
+[C^G-^d-] [^A,G^cd-] [^G,=c-d] [=G,cc'] [F,G-d] [FGd] [A,^c-^g-] [^Acg] |
+% Bar 20 (0:43)
+[^C-^cc'] [C^df-^ac'] [^A,/-F/-f/^g/-] [A,/-F/c/-g/a/-] [A,/-^G/-c/f/-=g/a/] [A,/G/c/f/^g/] [^D2-=c2d2g2] [D-^c-f-g-] [D-cfga] |
+[^D-^c-^g] [Dc=g] [^G,2^G2=c2-^g2-] [=G,cg] ^G, ^A, [CG] |
+[^G,c] [^A,^c] [C-=c-^d-] [Ccd^g] [^G-^c-f-=g] [Gcf^g] [CG-d-] [A,G-cd] |
+[^G,-^G-c-^d-^g] [G,Gcdg] [^D-^A-d-=g^a] [DAdg] [Gc^g-] [A^cg-] [=cdg] [^c-fg] |
+[^cg-c'] [cg] [=c^d-^g] [^Gd=g] [^A-^cf] [Acd] [G=c-^gc'-] +fff+ [Fcgc'] |
++ff+ [^D^d^g^a-] [^A,-^G^c-fa-] [A,=Gcda] [C^G-d-g] [^G,Gdc'] [A,=Gcd] [C^G-d-] [^CG-d-f] |
+[^D^G-^dg] [FG^g] [F,-F-dg] [F,Fdc'] [^A,F-^c-] [CF-cd] [^CFfc'] [D=g^a] |
+[Fc^g] [G^Af] [^G^c-^d-] [=Gcd] [^A,-F-c-g-] [A,Fcg^a] [^D-^Gfg] [D=Gc=ga] |
+[^G-^g-c'] [G^cg-] +fff+ [f-gc'] +ff+ [f=g^a] [^A-^d-] [Acdf] [^D-G-=cd] [D-G-^cf] |
+[^D^Gc^d] [^C-G^cf^g] +fff+ [C=Gd=g] [=CD^G^g] +ff+ [^A,-D-=G-d-] [A,DGcd] [^G,-D-^G-=c-g] [G,DGcg] |
+% Bar 30 (1:06)
+[^D,-^D-G-^A-^a] [D,DGAg] [^G,D^Gc^g] [G-^dg-c'] [G^cga] [dgc'] [=cd-gc'] [A^cd=g] |
+[c-^d-^g] [cdg] [^A-^cg] [Ac=g] [^Gd^gc'-] [Cdgc'] [^D-cf^a-] [D-Gc-a-] |
+[^D^A^cg^a] [F^G-=c-^g] [DG-c=gc'] [^CG^cf] [=CG^d-] [^A,=Gcd-] [^G,^G=cd] [=G,G^g] |
+[F,^G^d] [Fcd^g] [^A-^c-f] [Acg] [^A,-c-=g-c'] [A,cg^a] [^D-=c^g-] [DA^cfg-] |
+[C2^G2^d2^g2] [^A,-Gfg-] [A,F^cg^a] [^D,-^D-c-g] [D,Dc=g] +fff+ [^G,=c^g-] +ff+ [A,^cg-] |
+[C^d^g] [^Cf^a] [^D=g] [F^c^g] [Gca] [cf=g] [=cd^g] [^c-fg] |
+[^c^dg] [cf^g] [=cd-g-] [^A^cdg] [^Gdgc'] [Fg] [^Ccf^a] [^DAd=g] |
+[F^Gc^g] [fg-c'-] [^d=g^gc'] [^cfg] [=cdgc'] [^A^c=g] [G-d-^gc'-] [Gd=gc'] |
+[^G-^cf^a-] [Gcga] [G=c^d-^gc'] [FGdg] [^D-^A-d-ga-] [D-A-dfa-] [DA=g-a] [Fg^g] |
+[^Dc-^gc'] [^Cc^c=g] [=C^G-^d-] [^A,Gcd-] [^G,=c-d] [=G,cc'] [F,G-d] [FGd] |
+% Bar 40 (1:29)
+[^A,^c-^g-] [^Acg] [^C-cc'] [C^df-^ac'] [A,/-F/-f/g/-] [A,/-F/c/-g/a/-] [A,/-^G/-c/f/-=g/a/] [A,/G/c/f/^g/] [^D2-=c2d2g2] |
+[^D-^c-f-^g-] [D-cfg^a] [D-c-g] [Dc=g] [^G,2^G2=c2^g2-] [=G,g] [^G,^cg-] |
+[^A,^d^g-] [C^cg] [Cg] [^Ccf] [^D4c4d4] |
+[^G,6^D6^G6] z2 |]
+

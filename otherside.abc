@@ -1,0 +1,139 @@
+%abc-2.1
+%%song-title       Red Hot Chili Peppers - Otherside SSATBB
+%%song-duration    3:37
+%%song-transcriber Rogosh
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: Red Hot Chili Peppers - Otherside SSATBB (3:37) - Lute of Ages
+%%part-name Lute of Ages
+Z: Rogosh
+M: 4/4
+Q: 123
+K: C maj
+
++p+ [E3A3c3e3] [E-A-c-e-] [E2A2c2e2] [E2A2c2e2] |
+[F3A3c3f3] [F-A-c-f-] [F-Ac-f-] [FBcf] [F-Ac-f-] [FGcf] |
+[C3G3c3e3] [C-G-c-e-] [CG-c-e-] [CGce] [CG-B-e-] [B,GBe] |
+[G,3G3B3d3] [G,-G-B-d-] [G,2G2B2d2] [G,2G2B2d2] |
+[E3A3c3e3] [E-A-c-e-] [E2A2c2e2] [E2A2c2e2] |
+[F3A3c3f3] [F-A-c-f-] [F-Ac-f-] [FBcf] [F-Ac-f-] [FGcf] |
+[C3G3c3e3] [C-G-c-e-] [CG-c-e-] [CGce] [CG-B-e-] [EGBe] |
+[G3B3d3g3] [G-B-d-g-] [G2B2d2g2] [G2B2d2g2] |
+[E2-A2-e2] +mf+ [EAe] +p+ [E-A-e-] [E2A2e2] +mf+ [E2A2d2e2] |
+% Bar 10 (0:17)
+[F2-A2-c2f2-] [FAdf] [F-A-c-f-] [F-Acf-] [FBcf] [F-Ac-f-] +p+ [FGcf] |
++mf+ [C3G3c3-e3] +p+ [C-G-ce-] [CG-e-] [CGe] [CG-e-] [EGe] |
++mf+ [G2B2d2e2] +p+ [G2B2d2] +mf+ [G2c2d2] [D2G2B2d2] |
+[E2-A2-e2-] [EABe] [E-A-e-] [E2A2e2] [E-ABe-] [EAe] |
++p+ [F3A3f3] [F-A-f-] [F-Af-] [FBf] +mf+ [F-Af-] +p+ [FGf] |
+[C3G3e3] [C-G-e-] [CG-e-] [CGe] [CGe-] +mf+ [EGe] |
+[G2B2d2e2] +p+ [G2B2d2] +mf+ [G2c2d2] [D2G2B2d2] |
+[E3A3c3-e3] +p+ [E-A-c-e-] [E2A2c2e2] +mf+ [E-A-de-] [EAc-e] |
++p+ [F3A3c3-f3] [F-A-cf-] [F4A4f4] |
++mf+ [CGce] [CGce] [C2G2c2e2] [C2G2c2e2] [EGce] [G-B-e-] |
+% Bar 20 (0:37)
+[G2-B2-e2] [G2-B2-d2] [G2-B2c2] [G2B2] |
++mp+ [Ae] +mf+ [A,Ee-a-] [A,ce-a-] [A,ce-a-] [A,cea] [A,c] [A,cda] [A,ceg] |
+[Ecdg] [E-B-g-b-] [EBg-b-] [E-B-g-b-] [E-B-gb] +mp+ [EBeg] [da] [eb] |
+[Ae] +mf+ [A,Ee-a-] [A,ce-a-] [A,ce-a-] [A,-c-ea] [A,c] [A,cda] [A,ceg] |
+[E-cdg] [Ecg-b-] [Edg-b-] [B,-B-g-b-] [B,B-g-b-] [B,Bgb] E2 |
++mp+ [Ae] +mf+ [A,ce-a-] [A,ce-a-] [A,ce-a-] [A,-c-ea] [A,c] [A,cda] [A,ceg] |
+[Ecdg] [EBg-b-] [EBg-b-] [E-B-g-b-] [EBgb] [EBeg] [EBda] [EBeb] |
+[G2d2g2b2] [Gdgb] [G-d-g-b-] [G2d2g2b2] [G2d2g2b2] |
+[Adgb] [A-c-e-a-] [Acea] [A-c-e-a-] [A4c4e4a4-] |
++mp+ [A2d2e2a2-] [A2d2e2a2-] [A2d2e2a2-] [E2B2d2a2] |
+% Bar 30 (0:56)
++mf+ [A,2A2e2a2] [A,Aec'] [A,Gdc'] [A,-A-ec'] [A,Aec'] [A,Aec'] [A,Gdc'] |
+[EAec'] [E-G-d-b-] [EGdb] [E-G-d-b-] [E2G2d2b2] [EAe] [B,Gd] |
+A, [A,Cce] [A,Aec'] [A,Gdc'] [A,Aec'] [A,Aec'] [A,Aec'] [A,Gdc'] |
+[E-Aec'] [EGdc'] [EAde] [B,-G-d-b-] [B,G-d-b-] [B,Gdb] [E-Ae] [EGd] |
+A,2 [A,Aec'] [A,Gdc'] [A,Aec'] [A,Gdc'] [A,Aec'] [A,Gdc'] |
+[E2A2e2c'2] [EGdb] [E-G-d-b-] [EGdb] [B,Geb] [DAeb] [EBdb] |
+[G2B2d2b2] [GBdb] [G-B-d-b-] [G2-B2-d2-b2] [G2B2d2b2] |
+[A-c-e-b] [Acea-] [Acea] [A-c-e-a-] [A2c2e2a2-] [Acea-] [EBda-] |
+[A,8A8c8a8] |
+[E2-A2-c2e2] [E-A-ce] [E-A-c-e-] [E2A2c2e2] [E2G2B2d2g2] |
+% Bar 40 (1:16)
+[F2-A2-c2f2-a2-] [FABdf-a-] [F-A-c-f-a-] [F-Acf-a-] [FAcfa] [F2A2c2f2a2] |
+[C2-G2-c2d2e2-c'2-] [CG-c-e-c'-] [C-G-c-e-c'-] [CG-c-e-c'-] [CG-c-e-c'-] [CG-c-e-c'-] [B,Gcec'] |
+[D2G2B2e2g2b2] [D2G2A2d2g2a2] [D2G2A2c2e2g2] [D2G2B2d2g2] |
+[E2-A2-c2-e2-] [E-ABcde-] [E-A-c-e-] [E2A2c2e2] [E-G-Bd-g-] [EGAc-dg] |
+[F3A3c3-f3-a3-] [F-A-c-f-a-] [F2A2c2f2a2] [F-A-cfa] [FAd-e-g-c'-] |
+[C2-G2-d2e2-g2-c'2-] [CG-c-e-g-c'-] [C-G-c-e-g-c'-] [CG-c-e-g-c'-] [CG-ceg-c'-] [CGg-c'-] [B,Ggc'] |
+[D2G2B2e2g2b2] [D2G2A2d2g2a2] [D2G2A2c2e2g2] [D2G2B2d2g2] |
+[E3A3c3-e3a3] [E-A-c-e-a-] [E2A2c2e2a2] [E-ABde-a-] [EAcea] |
+[F3A3c3f3] [F-A-c-f-] [F2A2c2f2] [C2F2A2c2] |
+[CGceg] [CGceg] [C2G2c2e2g2] [C2E2G2c2e2g2] [CGceg] [D-G-B-e-g-b-] |
+% Bar 50 (1:35)
+[D2G2B2e2g2b2] [D2G2A2d2g2a2] [D2G2A2c2e2g2] [D2G2B2d2g2] |
++mp+ [Ae] +mf+ [A,Ee-a-] [A,ce-a-] [A,ce-a-] [A,cea] [A,c] [A,cda] [A,ceg] |
+[Ecdg] [E-B-g-b-] [EBg-b-] [E-B-g-b-] [E-B-gb] +mp+ [EBeg] [da] [eb] |
+[Ae] +mf+ [A,Ee-a-] [A,ce-a-] [A,ce-a-] [A,-c-ea] [A,c] [A,cda] [A,ceg] |
+[E-cdg] [Ecg-b-] [Edg-b-] [B,-B-g-b-] [B,B-g-b-] [B,Bgb] E2 |
++mp+ [Ae] +mf+ [A,ce-a-] [A,ce-a-] [A,ce-a-] [A,-c-ea] [A,c] [A,cda] [A,ceg] |
+[Ecdg] [EBg-b-] [EBg-b-] [E-B-g-b-] [EBgb] [EBeg] [EBda] [EBeb] |
+[G2d2g2b2] [Gdgb] [G-d-g-b-] [G2d2g2b2] [G2d2g2b2] |
+[Adgb] [A-c-e-a-] [Acea] [A-c-e-a-] [A4c4e4a4] |
+[A,2A2e2a2-] [A,Aea-c'] [A,Gda-c'] [A,-A-ea-c'] [A,Aea-c'] [A,Aea-c'] [A,Gdac'] |
+% Bar 60 (1:55)
+[EAec'] [E-G-d-b-] [EGdb] [E-G-d-b-] [E2G2d2b2] [EAe] [B,Gd] |
+A, [A,Cce] [A,Aec'] [A,Gdc'] [A,Aec'] [A,Aec'] [A,Aec'] [A,Gdc'] |
+[E-Aec'] [EGdc'] [EAde] [B,-G-d-b-] [B,G-d-b-] [B,Gdb] [E-Ae] [EGd] |
+A,2 [A,Aec'] [A,Gdc'] [A,Aec'] [A,Gdc'] [A,Aec'] [A,Gdc'] |
+[E2A2e2c'2] [EGdb] [E-G-d-b-] [EGdb] [B,Geb] [DAeb] [EBdb] |
+[G2B2d2b2] [GBdb] [G-B-d-b-] [G2-B2-d2-b2] [G2B2d2b2] |
+[A-c-e-b] [Acea-] [Acea] [A-c-e-a-] [A2c2e2a2-] [Acea-] [EBda-] |
+[A,8A8c8a8] |
+[E2-A2-c2e2] [E-A-ce] [E-A-c-e-] [E2A2c2e2] [E2G2B2d2g2] |
+[F2-A2-c2f2-a2-] [FABdf-a-] [F-A-c-f-a-] [F-Acf-a-] [FAcfa] [F2A2c2f2a2] |
+% Bar 70 (2:14)
+[C2-G2-c2d2e2-c'2-] [CG-c-e-c'-] [C-G-c-e-c'-] [CG-c-e-c'-] [CG-c-e-c'-] [CG-c-e-c'-] [B,Gcec'] |
+[D2G2B2e2g2b2] [D2G2A2d2g2a2] [D2G2A2c2e2g2] [D2G2B2d2g2] |
+[E2-A2-c2-e2-] [E-ABcde-] [E-A-c-e-] [E2A2c2e2] [E-G-Bd-g-] [EGAc-dg] |
+[F3A3c3-f3-a3-] [F-A-c-f-a-] [F2A2c2f2a2] [F-A-cfa] [FAd-e-g-c'-] |
+[C2-G2-d2e2-g2-c'2-] [CG-c-e-g-c'-] [C-G-c-e-g-c'-] [CG-c-e-g-c'-] [CG-ceg-c'-] [CGg-c'-] [B,Ggc'] |
+[D2G2B2e2g2b2] [D2G2A2d2g2a2] [D2G2A2c2e2g2] [D2G2B2d2g2] |
+[E3A3c3-e3a3] [E-A-c-e-a-] [E2A2c2e2a2] [E-ABde-a-] [EAcea] |
+[F3A3c3f3] [F-A-c-f-] [F2A2c2f2] [C2F2A2c2] |
+[CGceg] [CGceg] [C2G2c2e2g2] [C2E2G2c2e2g2] [CGceg] [D-G-B-e-g-b-] |
+[D2G2B2e2g2b2] [D2G2A2d2g2a2] [D2G2A2c2e2g2] [D2G2B2d2g2] |
+% Bar 80 (2:34)
++f+ [E,EBe-g-b-] [eg-b-] +ff+ [E,2E2B2e2-g2-b2] +f+ [D,DAdeg-] [E,-E-B-e-g] [E,EBe] +ff+ [E,-E-B-deg] |
++mf+ [E,EBeg-b-] +f+ [E,EBeg-b-] [e-g-b] [D,DAde-g] +ff+ [E,2E2B2e2g2] +f+ [E,2E2B2d2e2g2] |
+[CGce-g-c'-] [eg-c'-] +ff+ [C2G2c2e2-g2-c'2] +f+ [CGcdeg-] [C-G-c-e-g] [CGce] [C-G-c-dga] |
++mf+ [CGceg-c'-] +f+ [C/G/c/e/-g/-c'/-] [e/g/-c'/-] [E-c-e-g-c'-] [Ecdeg-c'-] [B,-B-e-gc'-] [B,Begc'] [G,-G-deg-a-] [G,Gdga] |
+[E,EBeg-b-] [eg-b-] [E,-E-B-eg-b-] [E,EBe-g-b] +ff+ [D,DAdeg-] +f+ [E,-E-B-eg] [E,EBe] [E,-E-B-deg] |
++ff+ [E,EBdeg-] +f+ [E,EBe-g-] [eg-] [D,DAe-g-] [E,-E-B-eg-] [E,EBeg] [E,-E-B-d-eg-] [E,EBdeg] |
++ff+ [CGcdeg-] +f+ [eg-] [C-G-c-eg-] [CGce-g-] +ff+ [CGcdeg-] +f+ [C-G-c-eg] [CGce] [C-G-c-deg] |
++ff+ [CGcdeg-] +f+ [C/G/c/e/-g/-] [e/-g/-] [E-c-eg-] [Ece-g-] [B,2B2e2-g2] [G,2G2d2e2g2a2] |
+[E,EBe-g-b-] [eg-b-] +ff+ [E,2E2B2e2-g2-b2] +f+ [D,DAdeg-] [E,-E-B-e-g] [E,EBe] +ff+ [E,-E-B-deg] |
++mf+ [E,EBeg-b-] +f+ [E,EBeg-b-] [e-g-b] [D,DAde-g] +ff+ [E,2E2B2e2g2] +f+ [E,2E2B2d2e2g2] |
+% Bar 90 (2:53)
+[CGce-g-c'-] [eg-c'-] +ff+ [C2G2c2e2-g2-c'2] +f+ [CGcdeg-] [C-G-c-e-g] [CGce] [C-G-c-dga] |
++mf+ [CGceg-c'-] +f+ [C/G/c/e/-g/-c'/-] [e/g/-c'/-] [E-c-e-g-c'-] [Ecdeg-c'-] [B,-B-e-gc'-] [B,Begc'] [G,-G-deg-a-] [G,Gdga] |
+[E,EBeg-b-] [eg-b-] [E,-E-B-eg-b-] [E,EBe-g-b] +ff+ [D,DAdeg-] +f+ [E,-E-B-eg] [E,EBe] [E,-E-B-deg] |
++ff+ [E,EBdeg-] +f+ [E,EBe-g-] [eg-] [D,DAe-g-] [E,-E-B-eg-] [E,EBeg] [E,-E-B-d-eg-] [E,EBdeg] |
++ff+ [CGcdeg-] +f+ [eg-] [C-G-c-eg-] [CGce-g-] +ff+ [CGcdeg-] +f+ [C-G-c-eg] [CGce] [C-G-c-deg] |
++ff+ [CGcdeg-] +f+ [C/G/c/e/-g/-] [e/-g/-] [E-c-eg-] [Ece-g-] [B,2B2e2-g2] [G,2G2d2e2g2a2] |
++mp+ [A,3A3e3c'3] [A,-A-e-c'-] [A,2A2e2c'2] [E2A2e2-c'2] |
+[F3A3e3-f3c'3] +mf+ [F-A-ef-c'-] [F2A2f2c'2] [F-Af-c'-] [FBfc'] |
+[C-G-de-] [C-G-e-c'-] [CGec'] [C-G-e-c'-] [CG-e-c'-] [CGec'] [CG-e-c'-] [B,Gec'] |
++f+ [G,-B-d-] [G,-B-d-c'-] [G,Bdc'] [G,-B-d-] [G,2B2d2c'2] [G,-B-d-] [G,Bdc'] |
+% Bar 100 (3:13)
+[A,2-A2-e2a2-c'2-] [A,Aeac'] [A,-A-e-a-c'-] [A,2A2e2a2c'2] [A,2E2d2e2g2b2] |
+[F,2-F2-c2f2-a2-c'2-] [F,Fdf-a-c'-] [F,-F-c-f-a-c'-] [F,Fcfac'] [CFcfac'] [C2A2c2f2a2c'2] |
+[C2-G2-c2-d2e2a2] [CGc-eg-] [C-G-c-e-g-] [C2G2c2-e2g2-] [B,2G2c2e2g2] |
+[G,2E2e2g2] [G,2D2d2g2] [G,2G2c2g2c'2] [G,2G2B2g2b2] |
+[A,2-A2-c2e2-a2-c'2-] [A,Adeac'] [A,-A-c-e-a-c'-] [A,2A2c2e2a2c'2] [A,-E-degb] [A,Ec-f-a-c'-] |
+[F,3F3c3-f3-a3-c'3-] [F,-F-c-f-a-c'-] [F,2F2c2f2a2c'2] [C-A-cfac'] [C-Ad-e-g-a-] |
+[C2-G2-d2e2g2a2] [CGe-g-] [C-G-e-g-] [C2G2e2g2] [B,-G] [B,Gg] |
+[G,2E2e2g2] [G,2D2d2g2] [G,2G2c2g2c'2] [G,2G2B2g2b2] |
+[A,3A3c3-e3a3c'3] [A,-A-c-e-a-c'-] [A,2A2c2e2a2c'2] [A,-E-degb] [A,Ec-f-a-c'-] |
+[F,3F3c3-f3-a3-c'3-] [F,-F-c-fac'] [F,2F2c2-d2e2-a2-] [C2F2c2e2a2c'2] |
+% Bar 110 (3:32)
+[Ccc'] [Ccc'] [C2c2c'2] [C2c2c'2] [Ccc'] [G,-E-e-g-] |
+[G,2E2e2g2] [G,2D2d2g2] [G,2G2c2g2c'2] [G,2G2B2g2b2] |
+[A,-A-c-e-b] [A,-A-c-e-a-] [A,2-A2-c2-e2-a2-] [A,4A4c4e4a4] |]
+

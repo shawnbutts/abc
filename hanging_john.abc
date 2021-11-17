@@ -1,0 +1,74 @@
+%abc-2.1
+%%song-title       Hanging Johnnie
+%%song-duration    1:51
+%%song-transcriber Rogosh
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: Hanging Johnnie (1:51) - Lute of Ages
+%%part-name Lute of Ages
+Z: Rogosh
+M: 4/4
+Q: 115
+K: C maj
+
++ff+ z4 z ^d/ f/ [^D2G2^A2g2] |
+[^DG^Ag] [D-G-A-f-] [DGAf] [DGA^d] [D-G-A-g] [DGA^a-] [DGAa] [D-G-A-] |
+[^DG^A] [DGA] [^A,2G2-^d2-^a2-] [A,Gda] [A,-^G-=d-c'-] [A,G-d-c'] [A,Gda] |
+[^D3G3^d3-] [^D,-d-] [D,d] d/ f/ [D2G2^A2d2g2] |
+[^DG^A^dg] [D-G-A-d-f-] [DGAdf] [DGAd] [D-G-A-d-g] [DGAd^a-] [DGAda-] [D-G-A-da] |
+[^DG^A^d] [DGA=d^d] [D2^G2c2d2c'2-] [DGcdc'-] [D-G-c-d-c'] [DGcd^a] [D=GAdg] |
+[^D2G2^A2^d2^a2-] [DGAda-] [D-G-A-d-a-] [DGAda] [DGAda] [^G2c2c'2] |
+[G^A^d^a] [^D-A-g-] [DAg] [G,Ad] [^A,-^G=df] [A,=G-^d-] [A,G-Ad-] [A,-Gd] |
+^A, [A,^A] [A,2A2-^d2-g2-] [A,Adg] [A,-^G-=d-f-] [A,G-d-f-] [A,Gdf] |
+% Bar 10 (0:18)
+[^D2G2-^d2-] [^A,Gd-] [^D,-G-d-] [D,Gd] d/- [d/f/] [D2G2^A2d2g2] |
+[^DG^A^dg] [D-G-A-d-f-] [DGAdf] [DGAd] [D-G-A-d-g] [DGAd^a-] [DGAda-] [D-G-A-da] |
+[^DG^A^d] [DGA=d^d] [D2^G2c2d2c'2-] [DGcdc'-] [D-G-c-d-c'] [DGcd^a] [D=GAdg] |
+[^D2G2^A2^d2^a2-] [DGAda-] [D-G-A-d-a-] [DGAda] [DGAda] [^G2c2c'2] |
+[G^A^d^a] [^D-A-g-] [DAg] [G,Ad] [^A,-^G=df] [A,=G-^d-] [A,G-Ad-] [A,-Gd] |
+^A, [A,^A] [A,2A2-^d2-g2-] [A,Adg] [A,-^G-=d-f-] [A,G-d-f-] [A,Gdf] |
+[^D2G2-^d2-] [^A,Gd-] [^D,-G-d-] [D,Gd] d/- [d/f/] [D2G2^A2d2g2] |
+[^DG^A^dg] [D-G-A-d-f-] [DGAdf] [DGAd] [D-G-A-d-g] [DGAd^a-] [DGAda-] [D-G-A-da] |
+[^DG^A^d] [DGA=d^d] [D2^G2c2d2c'2-] [DGcdc'-] [D-G-c-d-c'] [DGcd^a] [D=GAdg] |
+[^D2G2^A2^d2^a2-] [DGAda-] [D-G-A-d-a-] [DGAda] [DGAda] [^G2c2c'2] |
+% Bar 20 (0:39)
+[G^A^d^a] [^D-A-g-] [DAg] [G,Ad] [^A,-^G=df] [A,=G-^d-] [A,G-Ad-] [A,-Gd] |
+^A, [A,^A] [A,2A2-^d2-g2-] [A,Adg] [A,-^G-=d-f-] [A,G-d-f-] [A,Gdf] |
+[^D2G2-^d2-] [^A,Gd-] [^D,-G-d-] [D,Gd] d/- [d/f/] [D2G2^A2d2g2] |
+[^DG^A^dg] [D-G-A-d-f-] [DGAdf] [DGAd] [D-G-A-d-g] [DGAd^a-] [DGAda-] [D-G-A-da] |
+[^DG^A^d] [DGA=d^d] [D2^G2c2d2c'2-] [DGcdc'-] [D-G-c-d-c'] [DGcd^a] [D=GAdg] |
+[^D2G2^A2^d2^a2-] [DGAda-] [D-G-A-d-a-] [DGAda] [DGAda] [^G2c2c'2] |
+[G^A^d^a] [^D-A-g-] [DAg] [G,Ad] [^A,-^G=df] [A,=G-^d-] [A,G-Ad-] [A,-Gd] |
+^A, [A,^A] [A,2A2-^d2-g2-] [A,Adg] [A,-^G-=d-f-] [A,G-d-f-] [A,Gdf] |
+[^D2G2-^d2-] [^A,Gd-] [^D,-G-d-] [D,Gd] d/- [d/f/] [D2G2^A2d2g2] |
+[^DG^A^dg] [D-G-A-d-f-] [DGAdf] [DGAd] [D-G-A-d-g] [DGAd^a-] [DGAda-] [D-G-A-da] |
+% Bar 30 (1:00)
+[^DG^A^d] [DGA=d^d] [D2^G2c2d2c'2-] [DGcdc'-] [D-G-c-d-c'] [DGcd^a] [D=GAdg] |
+[^D2G2^A2^d2^a2-] [DGAda-] [D-G-A-d-a-] [DGAda] [DGAda] [^G2c2c'2] |
+[G^A^d^a] [^D-A-g-] [DAg] [G,Ad] [^A,-^G=df] [A,=G-^d-] [A,G-Ad-] [A,-Gd] |
+^A, [A,^A] [A,2A2-^d2-g2-] [A,Adg] [A,-^G-=d-f-] [A,G-d-f-] [A,Gdf] |
+[^D2G2-^d2-] [^A,Gd-] [^D,-G-d-] [D,Gd] d/- [d/f/] [D2G2^A2d2g2] |
+[^DG^A^dg] [D-G-A-d-f-] [DGAdf] [DGAd] [D-G-A-d-g] [DGAd^a-] [DGAda-] [D-G-A-da] |
+[^DG^A^d] [DGA=d^d] [D2^G2c2d2c'2-] [DGcdc'-] [D-G-c-d-c'] [DGcd^a] [D=GAdg] |
+[^D2G2^A2^d2^a2-] [DGAda-] [D-G-A-d-a-] [DGAda] [DGAda] [^G2c2c'2] |
+[G^A^d^a] [^D-A-g-] [DAg] [G,Ad] [^A,-^G=df] [A,=G-^d-] [A,G-Ad-] [A,-Gd] |
+^A, [A,^A] [A,2A2-^d2-g2-] [A,Adg] [A,-^G-=d-f-] [A,G-d-f-] [A,Gdf] |
+% Bar 40 (1:21)
+[^D2G2-^d2-] [^A,Gd-] [^D,-G-d-] [D,Gd] d/- [d/f/] [D2G2^A2d2g2] |
+[^DG^A^dg] [D-G-A-d-f-] [DGAdf] [DGAd] [D-G-A-d-g] [DGAd^a-] [DGAda-] [D-G-A-da] |
+[^DG^A^d] [DGA=d^d] [D2^G2c2d2c'2-] [DGcdc'-] [D-G-c-d-c'] [DGcd^a] [D=GAdg] |
+[^D2G2^A2^d2^a2-] [DGAda-] [D-G-A-d-a-] [DGAda] [DGAda] [^G2c2c'2] |
+[G^A^d^a] [^D-A-g-] [DAg] [G,Ad] [^A,-^G=df] [A,=G-^d-] [A,G-Ad-] [A,-Gd] |
+^A, [A,^A] [A,2A2-^d2-g2-] [A,Adg] [A,-^G-=d-f-] [A,G-d-f-] [A,Gdf] |
+[^D2G2-^d2-] [^A,Gd-] [^D,-G-d-] [D,Gd] d/- [d/f/] [D2G2^A2d2g2] |
+[^DG^A^dg] [D-G-A-d-f-] [DGAdf] [DGAd] [D-G-A-d-g] [DGAd^a-] [DGAda-] [D-G-A-da] |
+[^DG^A^d] [DGA=d^d] [D2^G2c2d2c'2-] [DGcdc'-] [D-G-c-d-c'] [DGcd^a] [D=GAdg] |
+[^D2G2^A2^d2^a2-] [DGAda-] [D-G-A-d-a-] [DGAda] [DGAda] [^G2c2c'2] |
+% Bar 50 (1:42)
+[G^A^d^a] [^D-A-g-] [DAg] [G,Ad] [^A,-^G=df] [A,=G-^d-] [A,G-Ad-] [A,-Gd] |
+^A, [A,^A] [A,2A2-^d2-g2-] [A,Adg] [A,-^G-=d-f-] [A,G-d-f-] [A,Gdf] |
+[^D2G2-^d2-] [^A,Gd-] [^D,-G-d-] [D,Gd] [A,-G-d^a-] [A,G-a-] [A,Ga] |
+[^A,2^G2-d2-c'2] [A,Gd^a] [^D-=G-^d-] [D2G2d2-] [^D,d-] [zd] |]
+

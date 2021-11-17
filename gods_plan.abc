@@ -1,0 +1,58 @@
+%abc-2.1
+%%song-title       Gods Plan
+%%song-duration    2:01
+%%song-transcriber Rogosh
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: Gods Plan (2:01) - Lute of Ages
+%%part-name Lute of Ages
+Z: Rogosh
+M: 4/4
+Q: 76
+K: C maj
+
++mf+ [^Adf^a-] +mp+ [Adfa] +mf+ [Adfa] [Adfa] [cegc'-] +mp+ [cegc'] +mf+ [cegc'] [cegc'] |
+[^Adf^a-] +mp+ [Adfa] +mf+ [Ac-dfa] [A/-c/d/-f/-a/-] [=A/^A/d/f/a/] [=Acegc'-] [G/c/-e/-g/-c'/-] [F/c/e/g/c'/] [^Acegc'] [=A/c/-e/-g/-c'/-] [G/c/e/g/c'/] |
+[G^Adf^a-] [F/A/-d/-f/-a/-] [F/A/d/f/a/] [GAdfa] [F/A/-d/-f/-a/-] [=A/^A/d/f/a/] [=Acegc'-] [G/c/-e/-g/-c'/-] [F/c/e/g/c'/] [Fcegc'] [cegc'] |
++mp+ [^Adf] [Adf] [Adf] [Adf] [ceg] [ceg] [ceg] [ceg] |
++f+ [^A/-d/f/-] [A/d/f/] [A/-c/d/-f/-] [A/c/d/f/] [A/-d/-f/-] [=A/^A/d/f/] [G/A/-d/-f/-] [=A/^A/d/f/] [=Aceg] [G/c/-e/-g/-] [F/-c/e/g/] +mp+ [F-ceg] [Fceg] |
++f+ [^A/-d/f/-] [A/d/f/] [A/-c/d/-f/-] [A/c/d/f/] [A/-d/-f/-] [=A/^A/d/f/] [G/A/-d/-f/-] [=A/^A/d/f/] [=Aceg] [G/c/-e/-g/-] [F/-c/e/g/] +mp+ [F-ceg] [Fceg] |
++f+ [^A/-d/f/-] [A/d/f/] [A/-c/d/-e/-] [A/c/d/e/] [A/-d/-f/-] [=A/^A/d/f/] [G/A/-d/-f/-] [=A/^A/d/f/] [=Aceg] [G/c/-e/-g/-] [F/-c/e/g/] +mp+ [F-ceg] [Fceg] |
++f+ [^A/-d/f/-] [A/d/f/] [A/-c/d/-f/-] [A/c/d/f/] [A/-d/-f/-] [=A/^A/d/f/] [G/A/-d/-f/-] [=A/^A/d/f/] [=Aceg] [G/c/-e/-g/-] [F/-c/e/g/] +mp+ [F-ceg] F |
++f+ [^A/-d/f/-] [A/d/f/] [A/-c/d/-f/-] [A/c/d/f/] [A/-d/-f/-] [=A/^A/d/f/] [G/A/-d/-f/-] [=A/^A/d/f/] [=Aceg] [G/c/-e/-g/-] [F/-c/e/g/] +mp+ [F-ceg] [Fceg] |
+% Bar 10 (0:28)
++f+ [^A/-d/f/-] [A/d/f/] [A/-c/d/-f/-] [A/c/d/f/] [A/-d/-f/-] [=A/^A/d/f/] [G/A/-d/-f/-] [=A/^A/d/f/] [=Aceg] [G/c/-e/-g/-] [F/-c/e/g/] +mp+ [F-ceg] [Fceg] |
++f+ [^A/-d/f/-] [A/d/f/] [A/-c/d/-e/-] [A/c/d/e/] [A/-d/-f/-] [=A/^A/d/f/] [G/A/-d/-f/-] [=A/^A/d/f/] [=Aceg] [G/c/-e/-g/-] [F/-c/e/g/] +mp+ [F-ceg] [Fceg] |
++f+ [^A/-d/f/-] [A/d/f/] [A/-c/d/-f/-] [A/c/d/f/] [A/-d/-f/-] [=A/^A/d/f/] [G/A/-d/-f/-] [=A/^A/d/f/] [=Aceg] [G/c/-e/-g/-] [F/-c/e/g/] +mp+ [F-ceg] F |
++mf+ [FAa] [F/G/A/-g/] [F/A/f/-] +mp+ [FAf] [FA] [EG] +mf+ [EGAa] [E/-G/-g/] [E/F/G/f/] z |
++mp+ [FA] [FA] [FA] +mf+ [F/-A/-c/] [F/A/^A/] [E/-G/-=A/] [E/G/A/] [E/-G/-A/] [E/G/^A/] [EG=A] +mp+ [EG] |
+[FA] [FA] [FA] +mf+ [F/-A/-c/] [F/A/^A/] [E/-G/-=A/] [E/G/A/] [E/-G/-A/] [E/G/^A/] [EG=A] [EFG] |
++mp+ [FA] [FA] [FA] +mf+ [F/-A/-c/] [F/A/^A/] [E/-G/-=A/] [E/G/A/] [E/-G/-A/] [E/G/^A/] [EG=A] [EFG] |
+[FA] +mp+ [FA] [FA] +mf+ [F/-A/-c/] [F/A/^A/] [E/-G/-=A/] [E/G/A/] [E/-G/-A/] [E/G/^A/] [EG=A] [EFG] |
+[FA] +mp+ [FA] [FA] +mf+ [F/-A/-c/] [F/A/^A/] [E/-G/-=A/] [E/G/A/] [E/-G/-A/] [E/G/^A/] [EG=A] [E/-F/G/-] [E/G/] |
+[FA] +mp+ [FA] [FA] +mf+ [F/-A/-c/] [F/A/^A/] [E/-G/-=A/] [E/G/A/] [E/-G/-A/] [E/G/^A/] [EG=A] +mp+ [EG] |
+% Bar 20 (1:00)
+[FA] [FA] [FA] [F/A/-] +mf+ [F/A/] [EGA] +mp+ [EG] [EG] z |
+[FA] [FA] [FA] [FA] +f+ [EGd] [EGc] +mp+ [EG] +f+ [E/-A/] [E/A/] |
+[F/-A/-d/] [F/A/c/] [FAc] [FAc] [F/-A/] [F/A/] [EGA] [E/-G/-] [E/F/G/] [EG^A] [E/-G/=A/] [E/G/] |
+[FGA] [F/A/-] [F/A/] [FGA] [F/-A/] [F/A/] [EGA] [E/-G/-] [E/F/G/] [EFG] +mp+ [EG] |
+[FA] [FA] [FA] [FA] [EG] [EG] [EG] [EG] |
+[FA] [FA] [FA] [FA] +f+ [EGd] [EGc] +mp+ [EG] +f+ [E/-A/] [E/A/] |
+[F/-A/-d/] [F/A/c/] [FAc] [FAc] [F/-A/] [F/A/] [EGA] [E/-G/-] [E/F/G/] [EG^A] [E/-G/=A/] [E/G/] |
+[FGA] [F/A/-] [F/A/] [FGA] [F/-A/] [F/A/] [EGA] [E/-G/-] [E/F/G/] [EFG] +mp+ [EG] |
+[FA] [FA] [FA] [FA] [EG] [EG] [EG] [EG] |
+z A- A z z +f+ [ce] z [ce] |
+% Bar 30 (1:31)
+z2 c/ ^A/ =A/ A/ A A/ A/ A/ G/ F/ A/ |
+G F/ F/ ^A/ =A/ G/ A/ G F/ A/ G F/ A/ |
+G F ^A/ =A/ G [E/-G/] [E/G/] [E/-G/] [E/G/] [E/-G/] [E/G/] [E/-F/G/-] [E/G/A/] |
+G F ^A/ =A/ G [E/-G/] [E/G/] [E/-G/] [E/G/] [E/-G/] [E/G/] [E/-F/G/-] [E/G/A/] |
+[FGAg] [FAf] [FA] [F/-A/-a/] [F/G/A/g/] [EGAa] [EGAa] [EG] [EG] |
+[F/-A/-c/c'/] [F/A/^A/^a/] [F=A=a] [F/-A/-a/] [F/G/A/g/] [F/-A/-a/] [F/G/A/g/] [EGAa] [EGAa] [EG] [EG] |
+[F/-A/-c/c'/] [F/A/^A/^a/] [F/-=A/-=a/] [F/G/A/g/] [F/-A/-a/] [F/G/A/g/] [F/-A/-a/] [F/G/A/g/] [EGAa] [EGAa] [EG] [EG] |
+[F/-A/-c/c'/] [F/A/^A/^a/] [F/-=A/-=a/] [F/G/A/g/] [F/-A/-a/] [F/G/A/g/] [F/-A/-a/] [F/G/A/g/] [EGAa] [EGAa] [EG] z |
+[Aa] [G/g/] [F3/2f3/2] z z [Aa] [G/g/] [F/f/] z |
+[F8f8] |]
+

@@ -1,0 +1,115 @@
+%abc-2.1
+%%song-title       God Bless the Broken Road
+%%song-duration    3:08
+%%song-transcriber Rogosh
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: God Bless the Broken Road (3:08) - Lute of Ages
+%%part-name Lute of Ages
+Z: Rogosh
+M: 2/2
+Q: 112
+K: C maj
+
++f+ [E,2-E2-e2-g2] +fff+ [E,2-E2-d2e2-] [E,2-E2-c2e2-c'2] [E,2E2e2g2-] [F,2-F2-f2-g2] [F,2-F2-d2f2-] [F,2-F2-c2f2-c'2] [F,2F2B2-f2b2-] |
+[G,2-G2-B2g2-b2] [G,2-G2-c2g2-c'2] [G,2-G2-d2g2-] [G,2G2c2e2g2c'2] [A,4-A4-c4e4a4-c'4] [A,2-A2-c2a2-c'2] [A,2A2e2a2] |
+[F,2F2A2-c2f2-c'2] [C,2C2A2-c2-f2c'2-] [F,2-F2-A2c2f2c'2] [F,2F2A2-c2-f2-c'2-] [G,2-G2A2c2f2c'2] [G,2-G2-e2-] [G,2-G2e2] [G,2G2c2c'2-] |
+[C,2C2G2c2-c'2-] [G,2G2-c2-g2c'2-] [E,2-E2-G2c2e2c'2] [E,2-E2-e2-g2-c'2-] [E,2-E2-e2-g2c'2] [E,2-E2-d2-e2-g2-b2-] [E,2-E2-d2e2-g2b2] [E,2E2d2e2g2b2-] |
+[E,2-E2-d2e2-g2b2] [E,2-E2-e2-g2-] [E,2-E2-e2-g2] [E,2E2c2-d2-e2g2-] [F,2-F2-c2d2f2-g2] [F,2-F2-c2-f2-c'2-] [F,2-F2-c2f2-c'2] [F,2F2B2f2g2b2] |
+[G,2-G2-B2g2-b2] [G,2-G2-c2g2-c'2] [G,2-G2-d2g2-] [G,2G2A2c2e2g2] [A,2-A2-a2-] [A,2-A2-c2a2-c'2] [A,2-A2-e2a2-] [A,2A2f2a2] |
+[F,6-F6-A6c6f6a6] [F,2F2A2-c2-f2-a2] [G,2-G2A2c2f2g2-] [G,2-G2-e2-g2-] [G,4G4e4g4] |
+[G,6E6-c6-e6-c'6-] [G,2E2G2c2e2c'2] [E,2-E2-c2e2-c'2] [E,2-E2-G2e2-g2] [E,2-E2-c2e2-c'2] +mp+ [E,2E2d2e2] |
++fff+ [E,2-E2-G2c2d2e2-] +f+ [E,2-E2-e2-c'2-] [E,2-E2-e2-c'2] [E,2E2e2f2g2c'2-] +fff+ [F,2-F2-f2-g2c'2] +f+ [F,2-F2-d2f2-] [F,2-F2-e2f2-] +mp+ [F,2F2d2f2g2] |
+% Bar 10 (0:19)
++fff+ [G,2-G2-d2g2-] +f+ [G,2-G2-g2-c'2-] [G,2-G2-g2-c'2] +mp+ [G,2G2e2-g2a2c'2] +fff+ [A,4-A4-e4a4-c'4-] [A,4A4a4c'4] |
+[F,2-F2-c2f2-g2c'2] +f+ [F,2-F2-f2-c'2-] [F,2-F2-f2c'2] +fff+ [F,2F2c2f2c'2] [G,4-G4-c4f4g4-c'4] +f+ [G,2-G2-g2-b2] +mp+ [G,2G2g2c'2] |
++fff+ [C,6-C6-c6d6g6c'6] [C,2-C2-G2-c2-g2-c'2-] [C,2-C2-G2c2g2c'2] [C,2-C2-c2-c'2-] [C,2-C2-c2-c'2] [C,2C2c2] |
+[F,2-F2-c2f2-g2c'2] +f+ [F,2-F2-f2-c'2-] [F,2-F2-f2c'2] [F,2F2f2g2-c'2-] +fff+ [F,2-F2-f2-g2c'2] +f+ [F,2-F2-e2-f2-] [F,2-F2-e2f2-] [F,2F2d2f2] |
++fff+ [G,2-G2-d2g2c'2] +f+ [G,2-G2-d2-g2-c'2-] [G,2-G2-d2g2-c'2] [G,-G-eg-] [G,Gdg] +fff+ [A,4-A4-e4-a4-c'4] [A,2-A2-e2a2-] +f+ [A,2A2g2a2] |
++fff+ [F,4-F4-f4-a4c'4] +f+ [F,2-F2-f2-c'2] [F,2F2d2f2g2c'2-] +fff+ [G,2-G2-d2g2-c'2] +f+ [G,2-G2-g2-b2-] [G,2-G2-g2b2] [G,2G2d2g2c'2-] |
++fff+ [C,6C6c6d6-g6c'6-] [G,2G2d2g2c'2] [E,2-E2-c2e2c'2] +mp+ [E,2-E2-e2-] [E,2-E2-e2-g2] +f+ [E,2E2e2c'2] |
++fff+ [A,2-A2-c2-g2-a2-b2] +f+ [A,2-A2-c2-g2-a2-c'2-] [A,2-A2-c2-g2-a2-c'2] [A,2-A2-c2-g2-a2-c'2-] [A,2-A2-c2-g2-a2-c'2] [A,2-A2-c2-g2-a2-c'2-]
+	[A,2-A2-c2-g2-a2-c'2] [A,2A2c2g2a2b2-] |
++fff+ [G,2-G2-c2-g2-b2] +f+ [G,2-G2-c2-g2a2] [G,2-G2-c2-g2] [G,2-G2-c2-g2-] [G,8G8c8g8] |
++fff+ [F,2-F2-c2-f2-a2] +f+ [F,2-F2-c2-f2-g2-] [F,2-F2-c2-f2-g2] [F,2F2c2f2g2-] +fff+ [E,2-E2-c2-e2-g2] +f+ [E,2-E2-c2-e2-g2] [E,4E4c4e4c'4] |
+% Bar 20 (0:40)
++fff+ [D,2-D2-d2-g2-c'2] +f+ [D,2-D2-d2-e2-g2-] [D,2-D2-d2-e2g2-] [D,-D-deg-] [D,Ddg] +fff+ [G,4-G4-c4g4-c'4] [G,4G4g4] |
+[E,2-E2-e2-g2-c'2] +f+ [E,2-E2-e2-g2-c'2] [E,2-E2-e2-g2-c'2] [E,2E2e2g2-c'2-] +fff+ [F,2-F2-f2-g2-c'2-] +f+ [F,2-F2-e2-f2-g2-c'2-] [F,4F4e4f4g4c'4] |
++fff+ [G,2-G2-d2-g2-] +f+ [G,2-G2-d2-g2-c'2] [G,2-G2-d2-g2-c'2] [G,-G-deg-] [G,Gdg] +fff+ [A,8A8e8a8c'8] |
+[F,2-F2-f2-g2] +f+ [F,2-F2-f2-c'2-] [F,2-F2-f2-c'2] [F,2F2f2-c'2-] +fff+ [G,4-G4-f4-g4-c'4] +f+ [G,2-G2-f2-g2-b2] +mp+ [G,2G2f2g2c'2] |
+[C,16C16c16c'16] |
+z6 +fff+ [C,2c2c'2] [G,2C2G2c2e2g2-] [A,2D2A2d2f2g2] [C,2E2-c2e2-g2-] [A,2E2e2f2g2] |
+[A,6F6A6f6] [G,2-F2-G2-e2-f2-] [G,4F4G4e4f4-] [E,4-C4-E4-c4-f4c'4-] |
++pp+ [E,8C8E8c8f8c'8] +fff+ [G,2C2G2c2e2g2-] [A,2D2A2d2f2g2] [C,4E4c4e4g4] |
+[G,6G6d6g6b6-] [G,2-G2-d2-g2-b2-] [G,2G2-d2g2-b2-] [C,2G2c2g2b2c'2] [G,4-C4-G4-c4-e4-c'4-] |
+[G,2-C2-G2-c2-e2c'2-] [G,6C6G6c6c'6] [G,2C2G2c2e2g2-] [A,2D2A2d2f2g2] [C,4E4c4e4g4] |
+% Bar 30 (1:02)
+[A,6F6A6f6] [G,2-F2-G2-e2-f2-] [G,4F4G4e4f4] [E,4-E4-A4-g4-a4-c'4-] |
+[E,8E8A8g8a8c'8] [E,2E2A2e2-a2c'2] [G,2G2B2d2e2b2] [G,4G4c4e4c'4] |
+[A,8D8A8d8f8a8] [G,4C4-G4e4g4-c'4-] [G,4C4G4-d4-g4c'4] |
+[G,4-G4d4g4-b4] [G,4g4] [C,2G,2c2e2g2-b2] [D,2A,2d2f2g2a2] [C,4E,4e4g4c'4] |
+[F,6A,6f6a6c'6-] [F,2-G,2-e2-f2-g2c'2] +pp+ [F,-G,ef-g-c'-] +fff+ [D,F,-df-g-c'] [C,2F,2c2f2g2-c'2] [C,4-E,4-c4-e4-g4c'4] |
++pp+ [C,8E,8c8e8g8c'8] +fff+ [C,2G,2c2e2g2-c'2] [D,2A,2d2f2g2a2] [C,4E,4e4g4c'4] |
+[G,6d6g6] [F,2-G,2-d2-f2-g2-] +pp+ [F,2G,2-d2e2-f2g2-] +fff+ [C,2G,2c2e2g2c'2-] [A,4-A4-e4a4-c'4] |
++pp+ [A,4-A4e4-a4-c'4-] [A,4e4a4c'4-] +fff+ [A,2-A2-e2-a2-c'2-] [A,/A/e/-a/c'/] [G,3B,3G3d3e3-b3] [E,5/2C5/2E5/2e5/2c'5/2] |
+[F,2-d2f2-a2] +f+ [F,2-f2-a2] [F,4e4f4c'4-] +fff+ [E,2-e2c'2-] +f+ [E,2-e2-c'2] [E,2-d2e2-g2-c'2] [E,2e2g2c'2] |
++fff+ [F,8F8-f8-c'8-] [G,2F2-e2-f2g2-c'2-] [F,2F2-e2-f2-g2-c'2] [D,2F2-c2e2-f2-g2-] [G,2F2-G2e2f2-g2] |
+% Bar 40 (1:23)
+[G,8-F8c8-f8g8-] [G,4E4-c4-e4-g4] [A,4E4c4e4a4] |
+[C,6E,6-c6e6-g6-] [E,2F,2e2f2g2c'2] [F,4-f4-c'4] [C,2F,2-c2f2-c'2-] [D,2F,2d2f2c'2] |
+[D,2-G,2-d2-g2-] +f+ [D,2-G,2-d2-g2-c'2] [D,2-G,2-d2e2g2-] [D,2G,2d2g2] +fff+ [E,4-A,4-e4-a4-c'4] [E,2A,2-e2a2-] [G,2A,2g2a2] |
+[C,2F,2-c2f2-g2a2-] [C,2-F,2-c2-f2-a2-c'2-] [C,2F,2-c2f2-a2-c'2] [C,2-F,2c2-f2a2-c'2-] [C,2G,2-c2g2-a2-c'2] [G,2-B,2B2g2-a2-b2] [G,2-B,2B2g2-a2-b2]
+	[C,2G,2c2g2a2c'2] |
+[E,2-c2d2e2-g2-c'2-] [E,2-d2e2-g2-c'2] [E,2-c2e2-g2c'2-] [E,2-e2-g2-c'2-] [E,2-F,2-e2-f2-g2-c'2] [E,2-F,2-d2e2-f2-g2-] [E,2-F,2-c2e2-f2-g2] [E,2-F,2G2-B2e2f2] |
+[E,2-G,2-G2B2e2-g2-] [E,2-G,2-c2e2-g2-c'2-] [E,2-G,2-d2e2g2-c'2] [E,2G,2A2-c2e2g2] [A,2-A2c2e2a2c'2] [A,2-A2a2-] [A,2-c2a2-c'2] [A,2e2a2] |
+[F,6-A6c6f6a6c'6] [F,2A2-c2-f2-a2-c'2] [G,2-A2c2f2g2a2] [G,2-G2-e2-g2-] [G,2-G2e2g2-] [G,2E2-c2e2-g2c'2] |
+[C,6-E6c6-e6c'6] [C,2-c2-e2-g2-c'2-] [C,2-c2-e2-g2c'2] [C,2-c2-e2g2c'2] [C,4c4d4g4b4] |
+[E,2-d2e2-g2b2] [E,2-e2-g2-] [E,2-e2-g2] [E,2c2-d2-e2g2-c'2-] [F,2-c2d2f2-g2c'2] [F,2-c2-f2-c'2-] [F,2-c2f2-c'2] [F,2B2-f2g2b2-] |
+[G,2-B2g2-b2] [G,2-c2g2-c'2] [G,2-d2g2] [G,2G2c2e2g2c'2] [A,2-G2c2e2g2a2-] [A,2-G2g2a2-] [A,2-c2a2-c'2] [A,2e2a2] |
+% Bar 50 (1:44)
+[F,6-A6c6f6a6c'6] [F,2A2-c2-f2-a2-c'2] [G,2-A2c2f2g2a2] [G,2-G2-e2-g2-] [G,4G4e4g4] |
+[C,8-E8-c8e8-c'8] [C,2-E2c2-e2c'2] [C,2-G2c2g2] [C,2-c2-c'2] [C,2c2g2] |
+[E,4-c4e4-g4c'4] [E,2-e2-c'2] [E,2e2f2g2c'2-] [F,2-f2-g2c'2] [F,2-f2-c'2] [F,4d4f4] |
+[G,8d8g8] [A,8e8a8c'8] |
+[F,8c8f8a8c'8] [G,2-d2g2-a2c'2] [G,2-g2-b2-] [G,2-g2b2] [G,2e2g2c'2-] |
+[C,6-c6-e6g6c'6] [C,2-F2-c2-d2-f2-] [C,2-F2c2-d2f2] [C,2-G2-c2-e2-g2-] [C,2-G2c2-e2g2] [C,2c2g2] |
+[E,4-c4e4-g4c'4] [E,2-e2-c'2] [E,2c2e2f2g2c'2] [F,4-c4f4-g4c'4] [F,2-f2-c'2] [F,2d2f2g2b2-] |
+[G,2-d2g2-b2] [G,2-g2-c'2-] [G,2-g2-c'2] [G,2e2g2a2c'2] [A,-ea-c'] [A,-da-] [A,2-a2-c'2-] [A,4a4c'4] |
+[F,8c8f8c'8] [G,4-e4f4g4-c'4] [G,2-g2c'2] [G,2e2-g2c'2-] |
+[C,8c8e8g8c'8] z2 [C2c'2] [B,2b2] [G,2g2c'2] |
+% Bar 60 (2:06)
+[F,2-A,2-A2-g2-a2-b2] [F,2-A,2-A2-g2-a2-c'2-] [F,2-A,2-A2-g2-a2-c'2] [F,2-A,2-A2-g2-a2-c'2-] [F,4-A,4-A4-g4-a4-c'4] [F,2-A,2-A2-g2-a2-c'2] [F,2A,2A2g2a2b2-] |
+[E,2-G,2-G2-d2-g2-b2] [E,2-G,2-G2-d2-g2-a2-] [E,2-G,2-G2-d2-g2a2] [E,2-G,2-G2-d2-g2-] [E,8G,8G8d8g8] |
+[F,2-F2-c2-f2-a2] [F,2-F2-c2-f2-g2-] [F,2-F2-c2-f2-g2] [F,2F2c2f2g2-] [D,2-E,2-E2-e2-g2] [D,2-E,2-E2-e2-c'2-] [D,4E,4E4e4c'4] |
+[D,2-D2-d2-a2-c'2] [D,2-D2-d2-e2-a2-] [D,2-D2-d2-e2a2-] [D,-D-dea-] [D,Dda-] [G,4-G4-c4g4-a4-c'4] [G,4G4g4a4] |
+[E,2-E2-e2-g2c'2] [E,2-E2-e2-c'2-] [E,2-E2-e2-c'2] [E,2E2e2c'2-] [F,2-F2-d2f2-c'2] [F,2-F2-d2-f2-] [F,2-F2-d2-e2f2-] [F,2F2d2f2g2] |
+[G,2-G2-g2-b2-] [G,2-G2-e2-g2-b2-] [G,2-G2-e2g2-b2-] [G,2G2g2b2c'2-] [A,4-A4-a4-c'4] [A,4A4a4] |
+[F,2-F2-f2a2-c'2-] [F,2-F2-f2-a2-c'2-] [F,4F4f4a4c'4] [G,2-G2-f2g2-a2-c'2-] [G,2-G2-e2-g2-a2-c'2-] [G,2-G2-e2g2a2-c'2-] [G,-G-g-a-c'-] [G,Gegac'] |
+[C,8c8g8c'8] [C,2C2c2e2g2c'2] [D,2D2d2f2a2] [E,4E4e4g4] |
+[A,6F6A6f6] [G,2-F2-G2-e2-f2-] [G,4F4G4e4f4-] [E,4-C4-E4-c4-f4c'4-] |
++pp+ [E,8C8E8c8f8c'8] +fff+ [G,2C2G2c2e2g2-] [A,2D2A2d2f2g2] [C,4E4c4e4g4] |
+% Bar 70 (2:27)
+[G,6G6d6g6b6-] [G,2-G2-d2-g2-b2-] [G,2G2-d2g2-b2-] [C,2G2c2g2b2c'2] [G,4-C4-G4-c4-e4-c'4-] |
+[G,2-C2-G2-c2-e2c'2-] [G,6C6G6c6c'6] [G,2C2G2c2e2g2-] [A,2D2A2d2f2g2] [C,4E4c4e4g4] |
+[A,6F6A6f6] [G,2-F2-G2-e2-f2-] [G,4F4G4e4f4] [E,4-E4-A4-g4-a4-c'4-] |
+[E,8E8A8g8a8c'8] [E,2E2A2e2-a2c'2] [G,2G2B2d2e2b2] [G,4G4c4e4c'4] |
+[A,8D8A8d8f8a8] [G,4C4-G4e4g4-c'4-] [G,4C4G4-d4-g4c'4] |
+[G,4-G4d4g4-b4] [G,4g4] [C,2G,2c2e2g2-b2] [D,2A,2d2f2g2a2] [C,4E,4e4g4c'4] |
+[F,6A,6f6a6c'6-] [F,2-G,2-e2-f2-g2c'2] +pp+ [F,-G,ef-g-c'-] +fff+ [D,F,-df-g-c'] [C,2F,2c2f2g2-c'2] [C,4E,4c4e4g4c'4] |
+[C,8E,8c8e8g8c'8] [C,2G,2c2e2g2-c'2] [D,2A,2d2f2g2a2] [C,4E,4e4g4c'4] |
+[G,6d6g6] [F,2-G,2-d2-f2-g2-] +pp+ [F,2G,2-d2e2-f2g2-] +fff+ [C,2G,2c2e2g2c'2-] [A,4-B,4-A4-e4a4-c'4] |
++pp+ [A,4-B,4A4e4-a4-c'4-] [A,4e4a4c'4-] +fff+ [A,2-B,2-A2-e2-a2-c'2-] [A,/B,/A/e/-a/c'/] [A,3B,3G3d3e3-b3] [^F,5/2C5/2E5/2e5/2c'5/2] |
+% Bar 80 (2:49)
+[F,2-d2f2-a2] +ff+ [F,2-f2-a2] [F,4e4f4c'4-] +fff+ [E,2-e2c'2-] +ff+ [E,2-e2-c'2] [E,2-d2e2-g2-c'2] [E,2e2g2c'2] |
++fff+ [F,8-f8-c'8-] [F,2G,2e2-f2g2-c'2-] [F,2-e2-f2-g2-c'2] [E,2F,2-c2e2-f2-g2-] [F,2-G,2G2e2f2-g2] |
+[F,12-G,12c12-f12-g12] [F,4A,4c4f4a4] |
+[C,6E,6-c6e6-g6-] [E,2F,2e2f2g2c'2] [F,4-f4-c'4] [C,2F,2-c2f2-c'2-] [D,2F,2d2f2c'2] |
+[D,2-G,2-d2-g2-] +ff+ [D,2-G,2-d2-g2-c'2] [D,2-G,2-d2e2g2-] [D,2G,2d2g2] +fff+ [E,4-A,4-e4-a4-c'4] [E,2A,2-e2a2-] [G,2A,2g2a2] |
+[F,2-G,2G2f2-g2a2-] [C,2-F,2-c2-f2-a2-c'2-] [C,2F,2-c2f2-a2-c'2] [C,2-F,2c2-f2a2-c'2-] [C,4G,4-c4g4-a4-c'4] [G,2-B,2B2g2-a2-b2] [C,2-G,2c2g2a2c'2] |
+[C,8C8c8c'8] [C,4C4-c4c'4-] [G,2C2-G2g2c'2] [C,2-C2c2-c'2] |
+[C,2C2-c2c'2] [C,2-C2-c2-c'2-] [C,4C4c4c'4] [C,E-ce-c'] [D,3E3d3e3] [C,4-C4-c4-c'4-] |
+[C,8-C8-c8-c'8-] [C,2C2c2c'2] [E,2-G2-c2-e2-] [E,4-G4-c4-e4-] |
+[E,12G12c12e12] z4 |]
+

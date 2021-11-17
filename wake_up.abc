@@ -1,0 +1,127 @@
+%abc-2.1
+%%song-title       NF - Wake Up Instrumental
+%%song-duration    3:49
+%%song-transcriber Rogosh
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: NF - Wake Up Instrumental (3:49) - Lute of Ages
+%%part-name Lute of Ages
+Z: Rogosh
+M: 4/4
+Q: 105
+K: C maj
+
++f+ ^A, ^c A, c A, c A, c |
+^A, ^c A, c A, c A, c |
+^F, ^c F, c F, c F, c |
+^F, ^c F, c F, c F, c |
+[^A,f-] [^c/-f/] [c/f/-] [A,f] [cf] [A,f-] [c/f/] c/- [A,c] c |
+[^A,^g-] [^cg-] [A,3/4-g3/4] A,// [cg] [A,^d-] [c/-d/] [c/d/-] [A,d] c |
+[^F,^c] c- [F,c] c F, c F, c |
+^F, ^c F, c F, c F, c |
+[^A,f-] [^c/-f/] [c/f/-] [A,f] [cf] [A,f-] [c/f/] c/- [A,c] c |
+% Bar 10 (0:20)
+[^A,^g-] [^c/-g/] [c/g/-] [A,g] [cg] [A,^d-] [c/-d/] [c/d/-] [A,d] c |
+[^F,^c] c- [F,c] c F, c F, c |
+^F, ^c F, c F, c [F,c] c |
+[^A,f-] [^c/-f/] [c/f/-] [A,f] [cf] [A,f-] [cf-] [A,3/4-f3/4] A,// c |
+[^A,^g-] [^c/-g/] [c/g/-] [A,g] [cg] [A,^d-] [c/-d/] [c/d/-] [A,d] c |
+[^F,^c] c- [F,c] c F, c F, c |
+^F, ^c F, c F, c [F,c] [c^f-] |
+[^A,^f] [^c=f-] [A,f] c A, c A, c |
+^A, ^c A, c A, c [A,^g] [cg] |
+[^F,f] [^cf-] [F,f] c F, c F, c |
+% Bar 20 (0:43)
+^F,4- F,2- F,3/2 z/ |
+^A,- [A,-^c] A,- [A,-c] A,- [A,-c] A,- [A,-c] |
+^A,- [A,-^c] A,- [A,-c] A,- [A,-c] A,- [A,//c//-] c3/4 |
+^F,- [F,-^c] F,- [F,-c] F,- [F,-c] F,- [F,-c] |
+^F,- [F,-^c] F,- [F,-c] F,- [F,-c] F,- [F,//c//-] c3/4 |
+^A,- [A,-^c] A,- [A,-c] A,- [A,-c] A,- [A,-c] |
+^A,- [A,-^c] A,- [A,-c] A,- [A,-c] A,- [A,//c//-] c3/4 |
+^F,- [F,-^c] F,- [F,-c] F,- [F,-c] F,- [F,-c] |
+^F,- [F,-^c] F,- [F,-c] F,- [F,-c] F,- [F,//c//-] c3/4 |
+[^A,-^c] [A,-c] [A,-=c] [A,-c] [A,-^c] [A,-c] [A,-^d] [A,-d] |
+% Bar 30 (1:06)
+[^A,-^c] [A,-c] [A,-^f] [A,-f] [A,-=f] [A,-f] [A,-^d] [A,//d//-] d3/4 |
+[^F,-^c] [F,-c] [F,-=c] [F,-c] [F,-^c] [F,-c] [F,-^d] F,- |
+^F,- [F,-^c] [F,-=c] [F,-c] [F,-^c] [F,-c] [F,-^d] [F,//d//-] d3/4 |
+[^A,-^c] [A,-c] [A,-=c] [A,-c] [A,-^c] [A,-c] [A,-^d] [A,-d] |
+[^A,-^c] [A,-c] [A,-^f] [A,-f] [A,-=f] [A,-f] [A,-^d] [A,//d//-] d3/4 |
+[^F,-^c] [F,-c] [F,-=c] [F,-c] [F,-^c] [F,-c] [F,-^d] [F,-d] |
+[^F,-^c] [F,-c] [F,-^f] [F,-f] [F,-=f] [F,-f] [F,-^d] [F,//d//-] d3/4 |
+[^A,f-] [^c/-f/] [c/f/-] [A,f] [cf] [A,f-] [c/f/] c/- [A,c] c |
+[^A,^g-] [^cg-] [A,3/4-g3/4] A,// [cg] [A,^d-] [c/-d/] [c/d/-] [A,d] c |
+[^F,^c] c- [F,c] c F, c F, c |
+% Bar 40 (1:29)
+^F, ^c F, c F, c F, c |
+[^A,f-] [^c/-f/] [c/f/-] [A,f] [cf] [A,f-] [c/f/] c/- [A,c] c |
+[^A,^g-] [^c/-g/] [c/g/-] [A,g] [cg] [A,^d-] [c/-d/] [c/d/-] [A,d] c |
+[^F,^c] c- [F,c] c F, c F, c |
+^F,4- F,2- F,3/2 z/ |
+[^A,-^c] [A,-c] [A,-c'] [A,-c'] [A,-c] [A,-c] [A,-^d] [A,-d] |
+[^A,-^c] [A,-c] [A,-^f] [A,-f] [A,-=f] [A,-f] [A,-^d] [A,//d//-] d3/4 |
+[^F,-^c] [F,-c] [F,-c'] [F,-c'] [F,-c] [F,-c] [F,-^d] F,- |
+^F,- [F,-^c] [F,-c'] [F,-c'] [F,-c] [F,-c] [F,-^d] [F,//d//-] d3/4 |
+[^A,-^c] [A,-c] [A,-c'] [A,-c'] [A,-c] [A,-c] [A,-^d] [A,-d] |
+% Bar 50 (1:52)
+[^A,-^c] [A,-c] [A,-^f] [A,-f] [A,-=f] [A,-f] [A,-^d] [A,//d//-] d3/4 |
+[^F,-^c] [F,-c] [F,-c'] [F,-c'] [F,-c] [F,-c] [F,-^d] [F,-d] |
+[^F,-^c] [F,-c] [F,-^f] [F,-f] [F,-=f] [F,-f] [F,-^d] [F,//d//-] d3/4 |
+^A,- [A,-^c] A,- [A,-c] A,- [A,-c] A,- [A,-c] |
+^A,- [A,-^c] A,- [A,-c] A,- [A,-c] A,- [A,//c//-] c3/4 |
+^F,- [F,-^c] F,- [F,-c] F,- [F,-c] F,- [F,-c] |
+^F,- [F,-^c] F,- [F,-c] F,- [F,-c] F,- [F,//c//-] c3/4 |
+^A,- [A,-^c] A,- [A,-c] A,- [A,-c] A,- [A,-c] |
+^A,- [A,-^c] A,- [A,-c] A,- [A,-c] A,- [A,//c//-] c3/4 |
+^F,- [F,-^c] F,- [F,-c] F,- [F,-c] F,- [F,-c] |
+% Bar 60 (2:14)
+^F,- [F,-^c] F,- [F,-c] F,- [F,-c] F,- [F,//c//-] c3/4 |
+[^A,-^c] [A,-c] [A,-=c] [A,-c] [A,-^c] [A,-c] [A,-^d] [A,-d] |
+[^A,-^c] [A,-c] [A,-^f] [A,-f] [A,-=f] [A,-f] [A,-^d] [A,//d//-] d3/4 |
+[^F,-^c] [F,-c] [F,-=c] [F,-c] [F,-^c] [F,-c] [F,-^d] F,- |
+^F,- [F,-^c] [F,-=c] [F,-c] [F,-^c] [F,-c] [F,-^d] [F,//d//-] d3/4 |
+[^A,-^c] [A,-c] [A,-=c] [A,-c] [A,-^c] [A,-c] [A,-^d] [A,-d] |
+[^A,-^c] [A,-c] [A,-^f] [A,-f] [A,-=f] [A,-f] [A,-^d] [A,//d//-] d3/4 |
+[^F,-^c] [F,-c] [F,-=c] [F,-c] [F,-^c] [F,-c] [F,-^d] [F,-d] |
+[^F,-^c] [F,-c] [F,-^f] [F,-f] [F,-=f] [F,-f] [F,-^d] [F,//d//-] d3/4 |
+[^A,f-] [^c/-f/] [c/f/-] [A,f] [cf] [A,f-] [c/f/] c/- [A,c] c |
+% Bar 70 (2:37)
+[^A,^g-] [^cg-] [A,3/4-g3/4] A,// [cg] [A,^d-] [c/-d/] [c/d/-] [A,d] c |
+[^F,^c] c- [F,c] c F, c F, c |
+^F, ^c F, c F, c F, c |
+[^A,f-] [^c/-f/] [c/f/-] [A,f] [cf] [A,f-] [c/f/] c/- [A,c] c |
+[^A,^g-] [^c/-g/] [c/g/-] [A,g] [cg] [A,^d-] [c/-d/] [c/d/-] [A,d] c |
+[^F,^c] c- [F,c] c F, c F, c |
+^F,4- F,2- F,3/2 z/ |
+[^A,-^c] [A,-c] [A,-c'] [A,-c'] [A,-c] [A,-c] [A,-^d] [A,-d] |
+[^A,-^c] [A,-c] [A,-^f] [A,-f] [A,-=f] [A,-f] [A,-^d] [A,//d//-] d3/4 |
+[^F,-^c] [F,-c] [F,-c'] [F,-c'] [F,-c] [F,-c] [F,-^d] F,- |
+% Bar 80 (3:00)
+^F,- [F,-^c] [F,-c'] [F,-c'] [F,-c] [F,-c] [F,-^d] [F,//d//-] d3/4 |
+[^A,-^c] [A,-c] [A,-c'] [A,-c'] [A,-c] [A,-c] [A,-^d] [A,-d] |
+[^A,-^c] [A,-c] [A,-^f] [A,-f] [A,-=f] [A,-f] [A,-^d] [A,//d//-] d3/4 |
+[^F,-^c] [F,-c] [F,-c'] [F,-c'] [F,-c] [F,-c] [F,-^d] [F,-d] |
+[^F,-^c] [F,-c] [F,-^f] [F,-f] [F,-=f] [F,-f] [F,-^d] [F,//d//-] d3/4 |
+[^A,-^c^g-] [A,/-c/-g/] [A,/-c/g/-] [A,-=cg] [A,-cg] [A,-^cg-] [A,/-c/-g/] [A,/-c/f/-] [A,-^df] [A,-df] |
+[^A,-^c^d-] [A,-cd-] [A,3/4-d3/4^f3/4-] [A,//-f//] [A,-df] [A,-d-=f] [A,/-d/f/-] [A,/-d/f/] [A,-d] [A,//c//-d//-] [c3/4d3/4] |
+[^F,-^c] [F,-c-] [F,-=c^c-] [F,3/4-=c3/4-^c3/4] [F,//-=c//] [F,-^c] [F,-c] [F,-^d] F,- |
+^F,- [F,-^c] [F,-=c] [F,-c] [F,-^c] [F,-c] [F,-^d] [F,//c//-d//-] [c3/4d3/4] |
+[^A,-^cf-] [A,/-c/-f/] [A,/-c/f/-] [A,-=cf] [A,-cf] [A,-^cf-] [A,/-c/-f/] [A,/-c/^d/] [A,-d] [A,-d] |
+% Bar 90 (3:23)
+[^A,-^c^d-] [A,/-c/-d/] [A,/-c/d/-] [A,-d^f] [A,-df] [A,-d-=f] [A,/-d/f/-] [A,/-d/f/] [A,-d] [A,//c//-d//-] [c3/4d3/4] |
+[^F,-^c] [F,-c-] [F,-=c^c-] [F,3/4-=c3/4-^c3/4] [F,//-=c//] [F,-^c] [F,-c] [F,-^d] [F,-d] |
+[^F,-^c] [F,-c] [F,-^f] [F,-f] [F,-=f] [F,-f] [F,-^d] [F,//d//-] d3/4 |
+^A, ^c A, c A, c A, c |
+^A, ^c A, c A, c A, c |
+^F, ^c F, c F, c F, c |
+^F, ^c F, c F, c F, c |
+^A, ^c A, c A, c A, c |
+^A, ^c A, c A, c A, c |
+^F, ^c F, c F, c F, c |
+% Bar 100 (3:46)
+^F, ^c F, c F, c F, c |
+[^A,4-^c4-] [A,2-c2-] [A,3/2c3/2] z/ |]
+

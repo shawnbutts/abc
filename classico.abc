@@ -1,0 +1,108 @@
+%abc-2.1
+%%song-title       Classico
+%%song-duration    0:57
+%%song-transcriber Rogosh
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: Classico (0:57) - Lute of Ages
+%%part-name Lute of Ages
+Z: Rogosh
+M: 2/4
+Q: 170
+K: C maj
+
+%%Q: 120
++mf+ z17/3
+	%%Q: 170
+	[G,2e2] [^F,2^f2] |
+[E,4B,4E4G4B4g4] [A,2-^f2] [A,2e2] |
+[B,4^F4B4^d4] [A,2-e2] [A,2^f2] |
+[G,4D4G4B4] [^F,2-^c2] [F,2^d2] |
+[E,4B,4E4G4B4e4] [^F,2-d2] [F,2c2] |
+[G,4D4G4B4] [A,2-A2] [A,2G2] |
+[^F,4B,4^F4B4^d4^f4] [A,2-G2] [A,2A2] |
+[G,2-D2-G2B2-] [G,2D2A2B2] [B,2-G2] [B,2^F2] |
+[E,8B,8E8G8B8e8] |
+% Bar 10 (0:06)
+b2 ^a2 b2 a2 |
+b2 ^f2 a2 g2 |
+[E6B6e6g6b6] [B,2B2e2g2] |
+[^D2d2] [E2e2] [B,4-^F4-B4-^d4-^f4-b4-] |
+[B,2^F2B2^d2^f2b2] [B,2F2B2d2] [^D2=d2] [F2f2] |
+[E4B4e4g4b4] z2 g2 |
+b2 ^a2 b2 a2 |
+b2 ^f2 a2 g2 |
+[E6B6e6g6b6] [B,2B2e2g2] |
+[^D2d2] [E2e2] [B,4-^F4-B4-^d4-^f4-b4-] |
+% Bar 20 (0:13)
+[B,2^F2B2^d2^f2b2] [B,2F2B2d2] [G2g2] [F2f2] |
+[E4B4e4g4b4] z2 ^f2 |
+g2 a2 [G4B4d4g4b4] |
+z2 g2 c'2 b2 |
+[D4A4c4^f4a4] z2 f2 |
+b2 a2 [E,4B,4E4G4B4g4] |
+z2 e2 a2 g2 |
+[B,4^F4A4^d4^f4] z2 [B,2B2] |
+B2 ^A2 B2 A2 |
+B2 ^A2 B,2 ^A,2 |
+% Bar 30 (0:20)
+B,2 ^A,2 B,2 A,2 |
+b2 ^a2 b2 a2 |
+b2 ^f2 a2 g2 |
++p+ e e e e e e e e |
+e e e e e e e e |
+^d d d d d d d d |
+^d d d d d d d d |
++mf+ [B,6^F6B6^d6^f6b6] F2 |
+[B,2-^F2-B2^d2-^f2-b2-] [B,4F4B4d4f4b4] F2 |
+[B,2^F2B2^d2^f2b2] F2 [B,2F2B2d2f2b2] d2 |
+% Bar 40 (0:27)
+[^F8^c8^f8] |
+[E6B6e6^g6b6] ^c2 |
+[E6B6e6^g6b6] ^c2 |
+[E2B2e2^g2b2] ^c2 [^A2c2^f2] c2 |
+^F8 |
+[B,4^F4B4] +p+ [B,4F4B4] |
+[B,2-^F2-B2-] +mf+ [B,2F2B2^d2] [B,2-F2^c2] [B,2B2] |
+[^F2-B2] [F2^A2] +p+ [F4A4^c4] |
+[^F2-^A2-^c2] +mf+ [F2A2c2] [F2-e2] [F2A2] |
+[B,2-^F2-^c2-] [B,2F2B2c2] +p+ [B,4F4B4] |
+% Bar 50 (0:34)
+[B,2-^F2-B2-] +mf+ [B,2F2B2^d2] [B,2-F2^c2] [B,2B2] |
+[^F2-B2] [F2^A2] +p+ [F4A4^c4] |
+[^F2-^A2-^c2] +mf+ [F2A2c2] [F2-e2] [F2A2] |
+[B,2^F2B2] B2 B ^A ^G A |
+[B,2^F2B2] B2 ^d ^c B c |
+[B,2^F2B2^d2] d2 ^f e d e |
+[^F4^A4^c4^f4] ^g4 |
+[^F2-^f2] [F2-e2] [F2-e2] [F2e2] |
+[^F2-e2] [F2-^d2] [F2-d2] [F2d2] |
+[^F2-^d2] [F2-^c2] [F2-c2] [F2c2] |
+% Bar 60 (0:41)
+[^F2-B2] [F2^A2] [F2-^G2] [F2A2] |
++p+ [B,4^F4B4] [B,4F4B4] |
+[B,2-^F2-B2] +mf+ [B,-F-B-] [B,FB^c] [B,-^d] [B,-c] [B,-B] [B,c] |
++p+ [B,4^F4B4^d4] [B,4F4B4d4] |
+[B,2-^F2-B2-^d2] +mf+ [B,-F-B-d-] [B,FBde] [B,-^f] [B,-e] [B,-d] [B,e] |
++p+ [B,4^F4B4^d4^f4] [B,4F4B4d4f4] |
++mf+ [B,4^F4B4^d4^f4^a4-] +p+ [B,4F4B4d4f4a4] |
++mf+ B4 ^c4 |
+^d4 f4 |
+[^F6^c6^f6^a6] c2 |
+% Bar 70 (0:48)
+[^C2^G2^c2f2^g2] c2 [C2G2c2f2g2] c2 |
+[^F6^c6^f6^a6] c2 |
+[^C2^G2^c2f2^g2] c2 [C2G2c2f2g2] c2 |
+z2 [^F^c^f^a] z3 [Fcfa] z |
+z2 [^F^c^f^a] z3 [Fcfa] z |
+z2 [^C^G^cf^g] z3 [CGcfg] z |
+z2 [^C^G^cf^g] z3 [CGcfg] z |
+z2 [^F^c^f^a] z3 [Fcfa] z |
+z2 [^F^c^f^a] z3 [Fcfa] z |
+z2 [^C^G^cf^g] z3 [CGcfg] z |
+% Bar 80 (0:55)
+z2 [^C^G^cf^g] z3 +p+ [^Fc^f^a] [Fcfa] |
++mf+ [^F8^c8^f8^a8] |]
+

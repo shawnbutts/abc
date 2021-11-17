@@ -1,0 +1,129 @@
+%abc-2.1
+%%song-title       Paint it Blacker
+%%song-duration    2:15
+%%song-transcriber Rogosh
+%%abc-creator Maestro v2.5.0
+%%abc-version 2.1
+
+X: 1
+T: Paint it Blacker (2:15) - Lute of Ages
+%%part-name Lute of Ages
+Z: Rogosh
+M: 4/4
+Q: 170
+K: C maj
+
+%%Q: 110
++mf+ e34/11 +f+ e34/11- [e34/11-^f34/11] [e34/11-g34/11] |
+[e34/11-a34/11] [e34/11-g34/11] [e34/11^f34/11] e34/11 |
+e34/11- [^d34/11e34/11] e34/11- [e34/11-^f34/11] |
+[^c51/44e51/44-] [^d17/44-e17/44-] [d17/44e17/44] e51/44- [e34/11^f34/11] e51/44- [d17/22e17/22-] [c51/44e51/44-] [d34/11e34/11] |
+%%Q: 170
+[B-eb-] [B-eb-] [B-eb-] [B-eb-] [B-e^f-b-] [B-efb-] [B-eg-b-] [B-egb-] |
+[B-ea-b-] [B-eab-] [B-eg-b-] [B-egb-] [B-e^f-b-] [B-efb-] [B-eb-] [Beb] |
+[Be-^f-b] [Bef-b] [B^d-f-b] [Bdf-b] [Be-f-b] [Befb] [Bf-b] [Bf-b] |
+[Be-^f-b] [Bef-b] [B^d-f-b] [Bdfb] [B^c-f-b] [Bcfb] [Bd-f-b] [Bdfb] |
+[B-eb-] [B-eb-] [B-eb-] [B-eb-] [B-e^f-b-] [B-efb-] [B-eg-b-] [B-egb-] |
+% Bar 10 (0:15)
+[B-ea-b-] [B-eab-] [B-eg-b-] [B-egb-] [B-e^f-b-] [B-efb-] [B-eb-] [Beb] |
+[Be-^f-b] [Bef-b] [B^d-f-b] [Bdf-b] [Be-f-b] [Befb] [Bf-b] [Bf-b] |
+[Be-^f-b] [Bef-b] [B^d-f-b] [Bdfb] [B^c-f-b] [Bcfb] [Bd-f-b] [Bdfb] |
+[e2g2-b2-] [eg-b-] [egb] [d2^f2a2-] [d2f2a2] |
+[e2g2b2] [egb] [d^fa] z [d3f3a3] |
+[e2g2b2] [e2g2b2] [e2g2b2] [e-gb] [egb] |
+[e-gb-] [eg-b-] [e-^fgb-] [eg-b-] [e-gab-] [egb] [B-fgb-] [Bgb] |
+[e2g2-b2-] [eg-b-] [egb] [d2^f2a2-] [d2f2a2] |
+[e2g2b2] [egb] [d^fa] z [d3f3a3] |
+[e2g2b2] [e2g2b2] [e2g2b2] [e-gb] [eg-b-] |
+% Bar 20 (0:29)
+[e2g2-b2-] [e2g2-b2] [e2g2-b2-] [B2g2b2] |
+e2 e2 [e2^f2] [e2g2] |
+[e2a2] [e2g2] [e2^f2] e2 |
+[B2e2b2] [B2^d2b2] [B2e2b2] [B2d2^f2b2] |
+[B2e2b2] [B2^d2^f2b2] [B2b2] [B2b2] |
+e2 e2 [e2^f2] [e2g2] |
+[e2a2] [e2g2] [e2^f2] e2 |
+[B2e2b2] [B2^d2b2] [B2e2b2] [B2d2^f2b2] |
+[B2e2b2] [B2^d2^f2b2] [B2b2] [B2b2] |
+[e2g2-b2-] [eg-b-] [egb] [d2^f2a2-] [d2f2a2] |
+% Bar 30 (0:44)
+[e2g2b2] [egb] [d^fa] z [d3f3a3] |
+[e2g2b2] [e2g2b2] [e2g2b2] [e-gb] [eg-b-] |
+[e-gb-] [eg-b-] [e-^fgb-] [eg-b-] [e-gab-] [egb] [B-fgb-] [Bgb] |
+[e2g2-b2-] [eg-b-] [egb] [d2^f2a2-] [d2f2a2] |
+[e2g2b2] [egb] [d^fa] z [d3f3a3] |
+[e2g2b2] [e2g2b2] [e2g2b2] [e-gb] [eg-b] |
+[B/e/-g/-b/-] [c/e/-g/a/b/-] [d/e/g/-b/-] [e/^f/g/-b/-] [e/-f/g/b/-] [d/e/-g/-b/-] [e/-g/-a/b/c'/] [e/g/-b/] [e/-g/-b/-c'/] [d/e/g/a/b/-c'/] [d/e/g/-b/-]
+	[e/f/g/b/-] [B/-e/-f/g/b/-] [B/-d/e/-g/a/b/-] [B/c/e/-g/-a/b/] [B/e/g/b/] |
+[Bd^f] [ce] d [cec'] [db] [ca] [Bg] [cf] |
+[Bd^f] [ceg] [dfa] [egb] [fac'] [dgb] [fac'] [egb] |
+[g2b2] [g2b2] [g2b2] [eg] [gb] |
+% Bar 40 (0:58)
+[^f/a/] [g/b/] [f/a/] [g/b/] [f/a/] [g/b/] [f/a/] [g/b/] [f/a/] [g/b/] [f/a/] [g/b/] [f/a/] [g/b/] [f/a/] [g/b/] |
+e2 e/ e e/ [d2^f2] [d2f2] |
+g/ g g/ g a z a3 |
+[g/b/] [ga] [g/b/] [g/b/] [ab] [g/b/] [g/b/] [ga] [g/b/] [eg] [gb] |
+[^f/a/] [g/b/] [f/a/] [g/b/] [f/a/] [g/b/] [f/a/] [g/b/] [f/a/] [g/b/] [f/a/] [g/b/] [f/a/] [g/b/] [f/a/] [g/b/] |
++ff+ [egb] [egb] z2 [egb] [egb] z2 |
+[egb] [egb] z2 [egb] [egb] z [^d^fb] |
+z2 +fff+ [^d/-^f/-b/-] [=d/^d/f/-^a/b/] [d/-f/-b/-] [=d/^d/f/a/b/] [d/-f/-b/-] [=d/^d/f/-a/b/] [d/-f/-g/-b/-] [=d/^d/f/-g/a/b/] [d/-f/-=a/-b/-]
+	[=d/^d/f/-a/^a/b/] [d/-f/-b/-] [=d/^d/f/-a/b/] |
+[^d/-^f/-b/-c'/-] [=d/^d/f/-^a/b/c'/-] [d/-f/-b/c'/] [=d/^d/f/-a/b/] [d/-f/-b/-] [=d/^d/f/-=a/-^a/b/] [d/-f/-=a/-b/-] [=d/^d/f/-a/^a/b/] [d/-f/-b/-]
+	[=d/^d/f/-a/b/] [d/-f/-b/-] [=d/^d/f/-a/b/] [d/-f/-b/-] [=d/^d/f/-a/b/] [d/-f/-b/-] [=d/^d/f/a/b/] |
++f+ [e2g2-b2-] [eg-b-] [egb] [d2^f2a2-] [d2f2a2] |
+% Bar 50 (1:12)
+[e2g2b2] [egb] [d^fa] z [d3f3a3] |
+[e2g2b2] [e2g2b2] [e2g2b2] [e-gb] +fff+ [eg-b-] |
++f+ [e-gb-] [eg-b-] [e-^fgb-] [eg-b] [e-gab-] [eg-b-] [B-fgb-] [Bgb] |
+[e2g2-b2-] [eg-b-] [egb] [d2^f2a2-] [d2f2a2] |
+[e2g2b2] [egb] [d^fa] z [d3f3a3] |
+[e2g2b2] [e2g2b2] [e2g2b2] [e-gb] +fff+ [eg-b] |
+[B/e/-g/-b/-] [c/e/-g/a/b/-] [d/e/g/-b/-] [e/^f/g/-b/-] [e/-f/g/b/-] [d/e/-g/-b/-] [e/-g/-a/b/c'/] [e/g/-b/] [e/-g/-b/-c'/] [d/e/g/a/b/-c'/] [d/e/g/-b/-]
+	[e/f/g/b/-] [B/-e/-f/g/b/-] [B/-d/e/-g/a/b/-] [B/c/e/-g/-a/b/] [B/e/g/b/] |
++f+ [egb] [egb] z2 [egb] [egb] z2 |
+[egb] [egb] z2 [egb] [egb] z [^d^fb] |
+z2 +fff+ [^d/-^f/-b/-] [=d/^d/f/-^a/b/] [d/-f/-b/-] [=d/^d/f/a/b/] [d/-f/-b/-] [=d/^d/f/-a/b/] [d/-f/-g/-b/-] [=d/^d/f/-g/a/b/] [d/-f/-=a/-b/-]
+	[=d/^d/f/-a/^a/b/] [d/-f/-b/-] [=d/^d/f/-a/b/] |
+% Bar 60 (1:26)
+[^d/-^f/-b/-c'/-] [=d/^d/f/-^a/b/c'/-] [d/-f/-b/c'/] [=d/^d/f/-a/b/] [d/-f/-b/-] [=d/^d/f/-=a/-^a/b/] [d/-f/-=a/-b/-] [=d/^d/f/-a/^a/b/] [d/-f/-b/-]
+	[=d/^d/f/-a/b/] [d/-f/-b/-] [=d/^d/f/-a/b/] [d/-f/-b/-] [=d/^d/f/-a/b/] [d/-f/-b/-] [=d/^d/f/a/b/] |
++f+ [egb] [egb] [egb] [egb] [egb] [egb] [egb] [egb] |
+[egb] [egb] [egb] [egb] [egb] [egb] a [^d^fb] |
+z [^d^fb] [d/-f/-b/-] [=d/^d/f/b/] [^c/-d/e/-a/-] [c/=d/e/a/] +fff+ [^d/-f/-b/-] +f+ [=d/^d/f/-b/-] [d/-f/-b/-] [=d/^d/f/-b/-] [d/-f/-b/-] [=d/^d/f/-b/-]
+	[d/-f/-b/-] [=d/^d/f/b/] |
++fff+ [^d/-^f/-b/-] +f+ [=d/^d/f/-b/-] [d/-f/-b/-] [=d/^d/-f/b/] [d2f2-b2-] [d4f4b4] |
+[ea] z e [e-a-] [e2-^f2a2-] [e2-g2a2] |
+[e2-a2-] [e2-g2a2-] [e2^f2a2-] [e2a2] |
+[^d^f-b] f g- [d-f-gb-] [d2-f2-a2b2] [d2-f2-b2-] |
++fff+ [^d/-^f/-b/c'/-] [d/-f/-b/-c'/] [d/-f/-b/c'/-] [d/-f/-b/-c'/] [d/-f/-b/c'/-] [d/-f/-b/-c'/] [d/-f/-b/c'/-] [d/-f/-b/c'/] [d/-f/-b/-] [d/-f/-^a/b/]
+	[d/-f/-b/-] [d/-f/-a/b/] [d/-f/-b/-] [d/-f/-a/b/] [d/-f/-b/-] [d/f/a/b/] |
+[B/b/] ^c ^d/ e/ [B^fb] [c/^g/] [d/^a/] [eb] [c/f/] [d/g/] [ea] [f/b/] |
+% Bar 70 (1:40)
+[g4c'4] [^f4b4] |
++ff+ [e3/2-g3/2-b3/2-] [e/g/-b/-c'/-] [e/-g/-b/c'/] [e/g/b/] [e/-g/-b/-] [e/g/a/b/] [e2^f2b2] [e2g2-b2-] |
+[e2g2a2b2] [e2g2-b2-] [e2^f2g2-b2-] [e2g2b2] |
+[B2^d2e2^f2-b2-] [B2d2-f2-b2-] [B-d-e-f-b-] [Bd-efab] [B-d-f-b-] [Bdfbc'] |
+[B-e-b] [B^de^fab] [B-db] [Bd-f-bc'] [B-d-f-b-] [Bd-f-ab-] [B-d-fgb-] [Bdfb] |
+[egb] z e [egb] ^f2 [eg-b] g |
+a- [egab] [g2b2] [e2^f2g2b2] [e2g2b2] |
++fff+ [e8-^f8-b8-] |
+[e8^f8-b8] |
+[^d2-^f2-b2-] [d2-f2-b2c'2] [d2-f2-b2-] [d2-f2-a2b2] |
+% Bar 80 (1:54)
+[^d2-^f2-b2-] [d2-f2-b2c'2] [d2-f2-b2-] [d2-f2a2b2] |
+[^d8-^f8-b8] |
+[^d8^f8b8] |
+z8 |
+[c4e4] [c4^f4] |
+[c4g4] [c4a4] |
+[c4g4] [c4^f4] |
+[c4e4] [c4e4] |
+[B4^d4b4] [c4e4g4] |
+[c4^f4] [c4e4g4] |
+% Bar 90 (2:08)
+[B4^d4b4] [c4-c'4-] |
+[c4c'4] [B4-b4-] |
+[B8b8] |
++mp+ [B8-e8] |
+[E8B8e8] |]
+
